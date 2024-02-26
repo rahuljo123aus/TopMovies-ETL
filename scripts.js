@@ -69,30 +69,4 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error('There was a problem with your fetch operation:', error);
         });
 
-
-
-    // Fetch movie data from JSON file
-    /*fetch('output/movies.json')
-        .then(response => response.json())
-        .then(data => {
-            // Loop through the movies and create HTML elements for each movie
-            data = JSON.parse(data);
-            console.log(data);
-            data.forEach(movie => {
-                const movieItem = document.createElement('div');
-                movieItem.classList.add('movie-item');
-
-                movieItem.innerHTML = `
-                    <h2>${movie.name}</h2>
-                    <p>Rating: ${movie.rating}</p>
-                    <p>Runtime: ${movie.runtime}</p>
-                `;
-
-                movieList.appendChild(movieItem);
-            });
-        })
-        .catch(error => {
-            console.error('Error fetching movie data:', error);
-        });*/
-
 });
