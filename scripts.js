@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     // Fetch movie data from JSON file
-    fetch('output/movies.json')
+    /*fetch('output/movies.json')
         .then(response => response.json())
         .then(data => {
             // Loop through the movies and create HTML elements for each movie
@@ -80,5 +80,33 @@ document.addEventListener('DOMContentLoaded', function () {
         })
         .catch(error => {
             console.error('Error fetching movie data:', error);
+        });*/
+
+    fetch('output/movies.json')
+        .then(response => response.json())
+        .then(data => {
+            console.log(data); // Check the structure of the data
+            
+            // Handle different data structures appropriately
+            if (Array.isArray(data)) {
+                data.forEach(movie => {
+                    const movieItem = document.createElement('div');
+                    movieItem.classList.add('movie-item');
+    
+                    movieItem.innerHTML = `
+                        <h2>${movie.name}</h2>
+                        <p>Rating: ${movie.rating}</p>
+                        <p>Runtime: ${movie.runtime}</p>
+                    `;
+    
+                    movieList.appendChild(movieItem);
+                });
+            } else {
+                console.error('Invalid data format: Expected an array');
+            }
+        })
+        .catch(error => {
+            console.error('Error fetching movie data:', error);
         });
+    
 });
