@@ -1,4 +1,4 @@
-[
+{
     "1": {
         "name": "The Shawshank Redemption",
         "rating": "9.3",
@@ -1249,4 +1249,4 @@
         "rating": "8.0",
         "runtime": "1h 30m"
     }
-]
+}

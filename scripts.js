@@ -48,11 +48,23 @@ document.addEventListener('DOMContentLoaded', function () {
             throw new Error('Network response was not ok');
             }
             console.log(`status: ${response.status}`);
-            //return response.json();
+            return response.json();
         })
-        /*.then(data => {
+        .then(data => {
             console.log(data); // Do something with the JSON data
-        })*/
+            data.forEach(movie => {
+                const movieItem = document.createElement('div');
+                movieItem.classList.add('movie-item');
+
+                movieItem.innerHTML = `
+                    <h2>${movie.name}</h2>
+                    <p>Rating: ${movie.rating}</p>
+                    <p>Runtime: ${movie.runtime}</p>
+                `;
+
+                movieList.appendChild(movieItem);
+            });
+        })
         .catch(error => {
             console.error('There was a problem with your fetch operation:', error);
         });
@@ -83,31 +95,4 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error('Error fetching movie data:', error);
         });*/
 
-    fetch('output/movies.json')
-        .then(response => response.json())
-        .then(data => {
-            //console.log(data); // Check the structure of the data
-            
-            // Handle different data structures appropriately
-            if (Array.isArray(data)) {
-                data.forEach(movie => {
-                    const movieItem = document.createElement('div');
-                    movieItem.classList.add('movie-item');
-    
-                    movieItem.innerHTML = `
-                        <h2>${movie.name}</h2>
-                        <p>Rating: ${movie.rating}</p>
-                        <p>Runtime: ${movie.runtime}</p>
-                    `;
-    
-                    movieList.appendChild(movieItem);
-                });
-            } else {
-                console.error('Invalid data format: Expected an array');
-            }
-        })
-        .catch(error => {
-            console.error('Error fetching movie data:', error);
-        });
-    
 });
