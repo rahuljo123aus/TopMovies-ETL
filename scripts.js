@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     // Fetch movie data from JSON file
-    fetch('movies.json')
+    fetch('output/movies.json')
         .then(response => response.json())
         .then(data => {
             // Loop through the movies and create HTML elements for each movie
