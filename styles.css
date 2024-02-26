@@ -1,0 +1,98 @@
+/* Reset CSS */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.movie-item {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+    perspective: 1000px; /* Add perspective for 3D effect */
+}
+
+.movie-item:hover {
+    transform: rotateY(10deg) scale(1.1); /* Apply 3D effect on hover */
+}
+
+.movie-item h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.movie-item p {
+    font-size: 16px;
+    color: #666;
+}
+
+/* Add this CSS for the cover page animation */
+.cover-page {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333; /* Dark background */
+    z-index: 1000; /* Make sure it's on top of other content */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    opacity: 1;
+    transition: opacity 1s ease, transform 1s ease; /* Smooth transitions */
+    transform: translateY(0); /* Initially move the cover page above the screen */
+}
+
+
+.cover-heading {
+    font-size: 48px;
+    color: #fff;
+    transition: transform 1s ease; /* Smooth transition for transform */
+    transform: translateY(-50%); /* Center the heading vertically */
+}
+
+.cover-page.hide {
+    opacity: 0; /* Hide the cover page */
+    pointer-events: none; /* Make sure it doesn't intercept clicks */
+    transform: translateY(-200%); /* Move the cover page further above the screen */
+}
+
+.page-header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.page-header input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
