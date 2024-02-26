@@ -1,0 +1,1252 @@
+{
+    "1": {
+        "name": "The Shawshank Redemption",
+        "rating": "9.3",
+        "runtime": "2h 22m"
+    },
+    "2": {
+        "name": "The Godfather",
+        "rating": "9.2",
+        "runtime": "2h 55m"
+    },
+    "3": {
+        "name": "The Dark Knight",
+        "rating": "9.0",
+        "runtime": "2h 32m"
+    },
+    "4": {
+        "name": "The Godfather: Part II",
+        "rating": "9.0",
+        "runtime": "3h 22m"
+    },
+    "5": {
+        "name": "12 Angry Men",
+        "rating": "9.0",
+        "runtime": "1h 36m"
+    },
+    "6": {
+        "name": "Schindler's List",
+        "rating": "9.0",
+        "runtime": "3h 15m"
+    },
+    "7": {
+        "name": "The Lord of the Rings: The Return of the King",
+        "rating": "9.0",
+        "runtime": "3h 21m"
+    },
+    "8": {
+        "name": "Pulp Fiction",
+        "rating": "8.9",
+        "runtime": "2h 34m"
+    },
+    "9": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8.9",
+        "runtime": "2h 58m"
+    },
+    "10": {
+        "name": "The Good, the Bad and the Ugly",
+        "rating": "8.8",
+        "runtime": "2h 41m"
+    },
+    "11": {
+        "name": "Forrest Gump",
+        "rating": "8.8",
+        "runtime": "2h 22m"
+    },
+    "12": {
+        "name": "The Lord of the Rings: The Two Towers",
+        "rating": "8.8",
+        "runtime": "2h 59m"
+    },
+    "13": {
+        "name": "Fight Club",
+        "rating": "8.8",
+        "runtime": "2h 19m"
+    },
+    "14": {
+        "name": "Inception",
+        "rating": "8.8",
+        "runtime": "2h 28m"
+    },
+    "15": {
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": "8.7",
+        "runtime": "2h 4m"
+    },
+    "16": {
+        "name": "The Matrix",
+        "rating": "8.7",
+        "runtime": "2h 16m"
+    },
+    "17": {
+        "name": "GoodFellas",
+        "rating": "8.7",
+        "runtime": "2h 25m"
+    },
+    "18": {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "rating": "8.7",
+        "runtime": "2h 13m"
+    },
+    "19": {
+        "name": "Se7en",
+        "rating": "8.6",
+        "runtime": "2h 7m"
+    },
+    "20": {
+        "name": "It's a Wonderful Life",
+        "rating": "8.6",
+        "runtime": "2h 10m"
+    },
+    "21": {
+        "name": "Interstellar",
+        "rating": "8.7",
+        "runtime": "2h 49m"
+    },
+    "22": {
+        "name": "Seven Samurai",
+        "rating": "8.6",
+        "runtime": "3h 27m"
+    },
+    "23": {
+        "name": "The Silence of the Lambs",
+        "rating": "8.6",
+        "runtime": "1h 58m"
+    },
+    "24": {
+        "name": "Saving Private Ryan",
+        "rating": "8.6",
+        "runtime": "2h 49m"
+    },
+    "25": {
+        "name": "City of God",
+        "rating": "8.6",
+        "runtime": "2h 10m"
+    },
+    "26": {
+        "name": "Life Is Beautiful",
+        "rating": "8.6",
+        "runtime": "1h 56m"
+    },
+    "27": {
+        "name": "The Green Mile",
+        "rating": "8.6",
+        "runtime": "3h 9m"
+    },
+    "28": {
+        "name": "Terminator 2: Judgment Day",
+        "rating": "8.6",
+        "runtime": "2h 17m"
+    },
+    "29": {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "rating": "8.6",
+        "runtime": "2h 1m"
+    },
+    "30": {
+        "name": "Back to the Future",
+        "rating": "8.5",
+        "runtime": "1h 56m"
+    },
+    "31": {
+        "name": "Spirited Away",
+        "rating": "8.6",
+        "runtime": "2h 5m"
+    },
+    "32": {
+        "name": "The Pianist",
+        "rating": "8.5",
+        "runtime": "2h 30m"
+    },
+    "33": {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "rating": "8.6",
+        "runtime": "2h 20m"
+    },
+    "34": {
+        "name": "Parasite",
+        "rating": "8.5",
+        "runtime": "2h 12m"
+    },
+    "35": {
+        "name": "Psycho",
+        "rating": "8.5",
+        "runtime": "1h 49m"
+    },
+    "36": {
+        "name": "Gladiator",
+        "rating": "8.5",
+        "runtime": "2h 35m"
+    },
+    "37": {
+        "name": "The Lion King",
+        "rating": "8.5",
+        "runtime": "1h 28m"
+    },
+    "38": {
+        "name": "Leon: The Professional",
+        "rating": "8.5",
+        "runtime": "1h 50m"
+    },
+    "39": {
+        "name": "The Departed",
+        "rating": "8.5",
+        "runtime": "2h 31m"
+    },
+    "40": {
+        "name": "American History X",
+        "rating": "8.5",
+        "runtime": "1h 59m"
+    },
+    "41": {
+        "name": "Whiplash",
+        "rating": "8.5",
+        "runtime": "1h 46m"
+    },
+    "42": {
+        "name": "The Prestige",
+        "rating": "8.5",
+        "runtime": "2h 10m"
+    },
+    "43": {
+        "name": "Grave of the Fireflies",
+        "rating": "8.5",
+        "runtime": "1h 29m"
+    },
+    "44": {
+        "name": "Seppuku",
+        "rating": "8.6",
+        "runtime": "2h 13m"
+    },
+    "45": {
+        "name": "The Usual Suspects",
+        "rating": "8.5",
+        "runtime": "1h 46m"
+    },
+    "46": {
+        "name": "Casablanca",
+        "rating": "8.5",
+        "runtime": "1h 42m"
+    },
+    "47": {
+        "name": "The Intouchables",
+        "rating": "8.5",
+        "runtime": "1h 52m"
+    },
+    "48": {
+        "name": "Modern Times",
+        "rating": "8.5",
+        "runtime": "1h 27m"
+    },
+    "49": {
+        "name": "Cinema Paradiso",
+        "rating": "8.5",
+        "runtime": "2h 54m"
+    },
+    "50": {
+        "name": "Rear Window",
+        "rating": "8.5",
+        "runtime": "1h 52m"
+    },
+    "51": {
+        "name": "Once Upon a Time in the West",
+        "rating": "8.5",
+        "runtime": "2h 46m"
+    },
+    "52": {
+        "name": "Alien",
+        "rating": "8.5",
+        "runtime": "1h 57m"
+    },
+    "53": {
+        "name": "12th Fail",
+        "rating": "9.1",
+        "runtime": "2h 27m"
+    },
+    "54": {
+        "name": "City Lights",
+        "rating": "8.5",
+        "runtime": "1h 27m"
+    },
+    "55": {
+        "name": "Apocalypse Now",
+        "rating": "8.4",
+        "runtime": "2h 27m"
+    },
+    "56": {
+        "name": "Django Unchained",
+        "rating": "8.5",
+        "runtime": "2h 45m"
+    },
+    "57": {
+        "name": "Memento",
+        "rating": "8.4",
+        "runtime": "1h 53m"
+    },
+    "58": {
+        "name": "WALLE",
+        "rating": "8.4",
+        "runtime": "1h 38m"
+    },
+    "59": {
+        "name": "Raiders of the Lost Ark",
+        "rating": "8.4",
+        "runtime": "1h 55m"
+    },
+    "60": {
+        "name": "The Lives of Others",
+        "rating": "8.4",
+        "runtime": "2h 17m"
+    },
+    "61": {
+        "name": "Sunset Boulevard",
+        "rating": "8.4",
+        "runtime": "1h 50m"
+    },
+    "62": {
+        "name": "Paths of Glory",
+        "rating": "8.4",
+        "runtime": "1h 28m"
+    },
+    "63": {
+        "name": "Avengers: Infinity War",
+        "rating": "8.4",
+        "runtime": "2h 29m"
+    },
+    "64": {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "rating": "8.4",
+        "runtime": "1h 57m"
+    },
+    "65": {
+        "name": "The Shining",
+        "rating": "8.4",
+        "runtime": "2h 26m"
+    },
+    "66": {
+        "name": "Witness for the Prosecution",
+        "rating": "8.4",
+        "runtime": "1h 51m"
+    },
+    "67": {
+        "name": "The Great Dictator",
+        "rating": "8.4",
+        "runtime": "2h 5m"
+    },
+    "68": {
+        "name": "Aliens",
+        "rating": "8.4",
+        "runtime": "2h 17m"
+    },
+    "69": {
+        "name": "Inglourious Basterds",
+        "rating": "8.4",
+        "runtime": "2h 33m"
+    },
+    "70": {
+        "name": "The Dark Knight Rises",
+        "rating": "8.4",
+        "runtime": "2h 44m"
+    },
+    "71": {
+        "name": "Dr",
+        "rating": "8.4",
+        "runtime": "1h 35m"
+    },
+    "72": {
+        "name": "American Beauty",
+        "rating": "8.3",
+        "runtime": "2h 2m"
+    },
+    "73": {
+        "name": "Oldboy",
+        "rating": "8.3",
+        "runtime": "2h"
+    },
+    "74": {
+        "name": "Coco",
+        "rating": "8.4",
+        "runtime": "1h 45m"
+    },
+    "75": {
+        "name": "Amadeus",
+        "rating": "8.4",
+        "runtime": "2h 40m"
+    },
+    "76": {
+        "name": "Toy Story",
+        "rating": "8.3",
+        "runtime": "1h 21m"
+    },
+    "77": {
+        "name": "Das Boot",
+        "rating": "8.4",
+        "runtime": "2h 29m"
+    },
+    "78": {
+        "name": "Braveheart",
+        "rating": "8.3",
+        "runtime": "2h 58m"
+    },
+    "79": {
+        "name": "Avengers: Endgame",
+        "rating": "8.4",
+        "runtime": "3h 1m"
+    },
+    "80": {
+        "name": "Joker",
+        "rating": "8.4",
+        "runtime": "2h 2m"
+    },
+    "81": {
+        "name": "Princess Mononoke",
+        "rating": "8.3",
+        "runtime": "2h 14m"
+    },
+    "82": {
+        "name": "Good Will Hunting",
+        "rating": "8.3",
+        "runtime": "2h 6m"
+    },
+    "83": {
+        "name": "Oppenheimer",
+        "rating": "8.4",
+        "runtime": "3h"
+    },
+    "84": {
+        "name": "Your Name",
+        "rating": "8.4",
+        "runtime": "1h 46m"
+    },
+    "85": {
+        "name": "Once Upon a Time in America",
+        "rating": "8.3",
+        "runtime": "3h 49m"
+    },
+    "86": {
+        "name": "High and Low",
+        "rating": "8.4",
+        "runtime": "2h 23m"
+    },
+    "87": {
+        "name": "3 Idiots",
+        "rating": "8.4",
+        "runtime": "2h 50m"
+    },
+    "88": {
+        "name": "Singin' in the Rain",
+        "rating": "8.3",
+        "runtime": "1h 43m"
+    },
+    "89": {
+        "name": "Capharnam",
+        "rating": "8.4",
+        "runtime": "2h 6m"
+    },
+    "90": {
+        "name": "Requiem for a Dream",
+        "rating": "8.3",
+        "runtime": "1h 42m"
+    },
+    "91": {
+        "name": "Idi i smotri",
+        "rating": "8.4",
+        "runtime": "2h 22m"
+    },
+    "92": {
+        "name": "Toy Story 3",
+        "rating": "8.3",
+        "runtime": "1h 43m"
+    },
+    "93": {
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "rating": "8.3",
+        "runtime": "2h 11m"
+    },
+    "94": {
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "rating": "8.3",
+        "runtime": "1h 48m"
+    },
+    "95": {
+        "name": "The Hunt",
+        "rating": "8.3",
+        "runtime": "1h 55m"
+    },
+    "96": {
+        "name": "2001: A Space Odyssey",
+        "rating": "8.3",
+        "runtime": "2h 29m"
+    },
+    "97": {
+        "name": "Poor Things",
+        "rating": "8.4",
+        "runtime": "2h 21m"
+    },
+    "98": {
+        "name": "Reservoir Dogs",
+        "rating": "8.3",
+        "runtime": "1h 39m"
+    },
+    "99": {
+        "name": "Ikiru",
+        "rating": "8.3",
+        "runtime": "2h 23m"
+    },
+    "100": {
+        "name": "Lawrence of Arabia",
+        "rating": "8.3",
+        "runtime": "3h 38m"
+    },
+    "101": {
+        "name": "The Apartment",
+        "rating": "8.3",
+        "runtime": "2h 5m"
+    },
+    "102": {
+        "name": "Citizen Kane",
+        "rating": "8.3",
+        "runtime": "1h 59m"
+    },
+    "103": {
+        "name": "North by Northwest",
+        "rating": "8.3",
+        "runtime": "2h 16m"
+    },
+    "104": {
+        "name": "M",
+        "rating": "8.3",
+        "runtime": "1h 57m"
+    },
+    "105": {
+        "name": "Vertigo",
+        "rating": "8.3",
+        "runtime": "2h 8m"
+    },
+    "106": {
+        "name": "Double Indemnity",
+        "rating": "8.3",
+        "runtime": "1h 47m"
+    },
+    "107": {
+        "name": "Scarface",
+        "rating": "8.3",
+        "runtime": "2h 50m"
+    },
+    "108": {
+        "name": "Incendies",
+        "rating": "8.3",
+        "runtime": "2h 11m"
+    },
+    "109": {
+        "name": "Amelie",
+        "rating": "8.3",
+        "runtime": "2h 2m"
+    },
+    "110": {
+        "name": "Full Metal Jacket",
+        "rating": "8.3",
+        "runtime": "1h 56m"
+    },
+    "111": {
+        "name": "A Clockwork Orange",
+        "rating": "8.3",
+        "runtime": "2h 16m"
+    },
+    "112": {
+        "name": "Heat",
+        "rating": "8.3",
+        "runtime": "2h 50m"
+    },
+    "113": {
+        "name": "Up",
+        "rating": "8.3",
+        "runtime": "1h 36m"
+    },
+    "114": {
+        "name": "To Kill a Mockingbird",
+        "rating": "8.3",
+        "runtime": "2h 9m"
+    },
+    "115": {
+        "name": "The Sting",
+        "rating": "8.3",
+        "runtime": "2h 9m"
+    },
+    "116": {
+        "name": "A Separation",
+        "rating": "8.3",
+        "runtime": "2h 3m"
+    },
+    "117": {
+        "name": "Indiana Jones and the Last Crusade",
+        "rating": "8.2",
+        "runtime": "2h 7m"
+    },
+    "118": {
+        "name": "Die Hard",
+        "rating": "8.2",
+        "runtime": "2h 12m"
+    },
+    "119": {
+        "name": "Hamilton",
+        "rating": "8.3",
+        "runtime": "2h 40m"
+    },
+    "120": {
+        "name": "Metropolis",
+        "rating": "8.3",
+        "runtime": "2h 33m"
+    },
+    "121": {
+        "name": "Like Stars on Earth",
+        "rating": "8.3",
+        "runtime": "2h 42m"
+    },
+    "122": {
+        "name": "Snatch",
+        "rating": "8.2",
+        "runtime": "1h 44m"
+    },
+    "123": {
+        "name": "L",
+        "rating": "8.2",
+        "runtime": "2h 18m"
+    },
+    "124": {
+        "name": "Bicycle Thieves",
+        "rating": "8.3",
+        "runtime": "1h 29m"
+    },
+    "125": {
+        "name": "1917",
+        "rating": "8.2",
+        "runtime": "1h 59m"
+    },
+    "126": {
+        "name": "Taxi Driver",
+        "rating": "8.2",
+        "runtime": "1h 54m"
+    },
+    "127": {
+        "name": "Downfall",
+        "rating": "8.2",
+        "runtime": "2h 36m"
+    },
+    "128": {
+        "name": "Dangal",
+        "rating": "8.3",
+        "runtime": "2h 41m"
+    },
+    "129": {
+        "name": "For a Few Dollars More",
+        "rating": "8.2",
+        "runtime": "2h 12m"
+    },
+    "130": {
+        "name": "Batman Begins",
+        "rating": "8.2",
+        "runtime": "2h 20m"
+    },
+    "131": {
+        "name": "The Wolf of Wall Street",
+        "rating": "8.2",
+        "runtime": "3h"
+    },
+    "132": {
+        "name": "Some Like It Hot",
+        "rating": "8.2",
+        "runtime": "2h 1m"
+    },
+    "133": {
+        "name": "The Kid",
+        "rating": "8.2",
+        "runtime": "1h 8m"
+    },
+    "134": {
+        "name": "Green Book",
+        "rating": "8.2",
+        "runtime": "2h 10m"
+    },
+    "135": {
+        "name": "The Father",
+        "rating": "8.2",
+        "runtime": "1h 37m"
+    },
+    "136": {
+        "name": "Top Gun: Maverick",
+        "rating": "8.2",
+        "runtime": "2h 10m"
+    },
+    "137": {
+        "name": "Judgment at Nuremberg",
+        "rating": "8.3",
+        "runtime": "2h 59m"
+    },
+    "138": {
+        "name": "All About Eve",
+        "rating": "8.2",
+        "runtime": "2h 18m"
+    },
+    "139": {
+        "name": "The Truman Show",
+        "rating": "8.2",
+        "runtime": "1h 43m"
+    },
+    "140": {
+        "name": "There Will Be Blood",
+        "rating": "8.2",
+        "runtime": "2h 38m"
+    },
+    "141": {
+        "name": "Shutter Island",
+        "rating": "8.2",
+        "runtime": "2h 18m"
+    },
+    "142": {
+        "name": "Casino",
+        "rating": "8.2",
+        "runtime": "2h 58m"
+    },
+    "143": {
+        "name": "Ran",
+        "rating": "8.2",
+        "runtime": "2h 40m"
+    },
+    "144": {
+        "name": "Jurassic Park",
+        "rating": "8.2",
+        "runtime": "2h 7m"
+    },
+    "145": {
+        "name": "The Sixth Sense",
+        "rating": "8.2",
+        "runtime": "1h 47m"
+    },
+    "146": {
+        "name": "Pan's Labyrinth",
+        "rating": "8.2",
+        "runtime": "1h 58m"
+    },
+    "147": {
+        "name": "Unforgiven",
+        "rating": "8.2",
+        "runtime": "2h 10m"
+    },
+    "148": {
+        "name": "A Beautiful Mind",
+        "rating": "8.2",
+        "runtime": "2h 15m"
+    },
+    "149": {
+        "name": "No Country for Old Men",
+        "rating": "8.2",
+        "runtime": "2h 2m"
+    },
+    "150": {
+        "name": "The Thing",
+        "rating": "8.2",
+        "runtime": "1h 49m"
+    },
+    "151": {
+        "name": "The Treasure of the Sierra Madre",
+        "rating": "8.2",
+        "runtime": "2h 6m"
+    },
+    "152": {
+        "name": "Yojimbo",
+        "rating": "8.2",
+        "runtime": "1h 50m"
+    },
+    "153": {
+        "name": "Kill Bill: Vol",
+        "rating": "8.2",
+        "runtime": "1h 51m"
+    },
+    "154": {
+        "name": "Monty Python and the Holy Grail",
+        "rating": "8.2",
+        "runtime": "1h 31m"
+    },
+    "155": {
+        "name": "The Great Escape",
+        "rating": "8.2",
+        "runtime": "2h 52m"
+    },
+    "156": {
+        "name": "Finding Nemo",
+        "rating": "8.2",
+        "runtime": "1h 40m"
+    },
+    "157": {
+        "name": "Rashomon",
+        "rating": "8.2",
+        "runtime": "1h 28m"
+    },
+    "158": {
+        "name": "The Elephant Man",
+        "rating": "8.2",
+        "runtime": "2h 4m"
+    },
+    "159": {
+        "name": "Howl's Moving Castle",
+        "rating": "8.2",
+        "runtime": "1h 59m"
+    },
+    "160": {
+        "name": "Prisoners",
+        "rating": "8.1",
+        "runtime": "2h 33m"
+    },
+    "161": {
+        "name": "Chinatown",
+        "rating": "8.1",
+        "runtime": "2h 10m"
+    },
+    "162": {
+        "name": "Dial M for Murder",
+        "rating": "8.2",
+        "runtime": "1h 45m"
+    },
+    "163": {
+        "name": "Gone with the Wind",
+        "rating": "8.2",
+        "runtime": "3h 58m"
+    },
+    "164": {
+        "name": "V for Vendetta",
+        "rating": "8.2",
+        "runtime": "2h 12m"
+    },
+    "165": {
+        "name": "Lock, Stock and Two Smoking Barrels",
+        "rating": "8.1",
+        "runtime": "1h 47m"
+    },
+    "166": {
+        "name": "The Secret in Their Eyes",
+        "rating": "8.2",
+        "runtime": "2h 9m"
+    },
+    "167": {
+        "name": "Raging Bull",
+        "rating": "8.1",
+        "runtime": "2h 9m"
+    },
+    "168": {
+        "name": "Inside Out",
+        "rating": "8.1",
+        "runtime": "1h 35m"
+    },
+    "169": {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "rating": "8.1",
+        "runtime": "1h 55m"
+    },
+    "170": {
+        "name": "Trainspotting",
+        "rating": "8.1",
+        "runtime": "1h 33m"
+    },
+    "171": {
+        "name": "The Bridge on the River Kwai",
+        "rating": "8.1",
+        "runtime": "2h 41m"
+    },
+    "172": {
+        "name": "Spider-Man: No Way Home",
+        "rating": "8.2",
+        "runtime": "2h 28m"
+    },
+    "173": {
+        "name": "Fargo",
+        "rating": "8.1",
+        "runtime": "1h 38m"
+    },
+    "174": {
+        "name": "Warrior",
+        "rating": "8.1",
+        "runtime": "2h 20m"
+    },
+    "175": {
+        "name": "Klaus",
+        "rating": "8.2",
+        "runtime": "1h 36m"
+    },
+    "176": {
+        "name": "Catch Me If You Can",
+        "rating": "8.1",
+        "runtime": "2h 21m"
+    },
+    "177": {
+        "name": "Godzilla Minus One",
+        "rating": "8.3",
+        "runtime": "2h 4m"
+    },
+    "178": {
+        "name": "Gran Torino",
+        "rating": "8.1",
+        "runtime": "1h 56m"
+    },
+    "179": {
+        "name": "My Neighbor Totoro",
+        "rating": "8.1",
+        "runtime": "1h 26m"
+    },
+    "180": {
+        "name": "Million Dollar Baby",
+        "rating": "8.1",
+        "runtime": "2h 12m"
+    },
+    "181": {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "rating": "8.1",
+        "runtime": "2h 10m"
+    },
+    "182": {
+        "name": "Children of Heaven",
+        "rating": "8.2",
+        "runtime": "1h 29m"
+    },
+    "183": {
+        "name": "12 Years a Slave",
+        "rating": "8.1",
+        "runtime": "2h 14m"
+    },
+    "184": {
+        "name": "Blade Runner",
+        "rating": "8.1",
+        "runtime": "1h 57m"
+    },
+    "185": {
+        "name": "Before Sunrise",
+        "rating": "8.1",
+        "runtime": "1h 41m"
+    },
+    "186": {
+        "name": "The Grand Budapest Hotel",
+        "rating": "8.1",
+        "runtime": "1h 39m"
+    },
+    "187": {
+        "name": "Ben-Hur",
+        "rating": "8.1",
+        "runtime": "3h 32m"
+    },
+    "188": {
+        "name": "Barry Lyndon",
+        "rating": "8.1",
+        "runtime": "3h 5m"
+    },
+    "189": {
+        "name": "Gone Girl",
+        "rating": "8.1",
+        "runtime": "2h 29m"
+    },
+    "190": {
+        "name": "The Gold Rush",
+        "rating": "8.1",
+        "runtime": "1h 35m"
+    },
+    "191": {
+        "name": "Hacksaw Ridge",
+        "rating": "8.1",
+        "runtime": "2h 19m"
+    },
+    "192": {
+        "name": "In the Name of the Father",
+        "rating": "8.1",
+        "runtime": "2h 13m"
+    },
+    "193": {
+        "name": "Memories of Murder",
+        "rating": "8.1",
+        "runtime": "2h 11m"
+    },
+    "194": {
+        "name": "On the Waterfront",
+        "rating": "8.1",
+        "runtime": "1h 48m"
+    },
+    "195": {
+        "name": "Dead Poets Society",
+        "rating": "8.1",
+        "runtime": "2h 8m"
+    },
+    "196": {
+        "name": "The General",
+        "rating": "8.1",
+        "runtime": "1h 47m"
+    },
+    "197": {
+        "name": "The Deer Hunter",
+        "rating": "8.1",
+        "runtime": "3h 3m"
+    },
+    "198": {
+        "name": "Wild Tales",
+        "rating": "8.1",
+        "runtime": "2h 2m"
+    },
+    "199": {
+        "name": "Mad Max: Fury Road",
+        "rating": "8.1",
+        "runtime": "2h"
+    },
+    "200": {
+        "name": "Sherlock Jr",
+        "rating": "8.2",
+        "runtime": "45m"
+    },
+    "201": {
+        "name": "Monsters, Inc",
+        "rating": "8.1",
+        "runtime": "1h 32m"
+    },
+    "202": {
+        "name": "The Third Man",
+        "rating": "8.1",
+        "runtime": "1h 44m"
+    },
+    "203": {
+        "name": "Wild Strawberries",
+        "rating": "8.1",
+        "runtime": "1h 31m"
+    },
+    "204": {
+        "name": "The Wages of Fear",
+        "rating": "8.2",
+        "runtime": "2h 11m"
+    },
+    "205": {
+        "name": "Jaws",
+        "rating": "8.1",
+        "runtime": "2h 4m"
+    },
+    "206": {
+        "name": "How to Train Your Dragon",
+        "rating": "8.1",
+        "runtime": "1h 38m"
+    },
+    "207": {
+        "name": "Mary and Max",
+        "rating": "8.1",
+        "runtime": "1h 32m"
+    },
+    "208": {
+        "name": "Mr",
+        "rating": "8.1",
+        "runtime": "2h 9m"
+    },
+    "209": {
+        "name": "Ford v Ferrari",
+        "rating": "8.1",
+        "runtime": "2h 32m"
+    },
+    "210": {
+        "name": "Ratatouille",
+        "rating": "8.1",
+        "runtime": "1h 51m"
+    },
+    "211": {
+        "name": "The Seventh Seal",
+        "rating": "8.1",
+        "runtime": "1h 36m"
+    },
+    "212": {
+        "name": "Room",
+        "rating": "8.1",
+        "runtime": "1h 58m"
+    },
+    "213": {
+        "name": "The Big Lebowski",
+        "rating": "8.1",
+        "runtime": "1h 57m"
+    },
+    "214": {
+        "name": "Tokyo Story",
+        "rating": "8.1",
+        "runtime": "2h 16m"
+    },
+    "215": {
+        "name": "Rocky",
+        "rating": "8.1",
+        "runtime": "2h"
+    },
+    "216": {
+        "name": "Logan",
+        "rating": "8.1",
+        "runtime": "2h 17m"
+    },
+    "217": {
+        "name": "Spotlight",
+        "rating": "8.1",
+        "runtime": "2h 9m"
+    },
+    "218": {
+        "name": "Hotel Rwanda",
+        "rating": "8.1",
+        "runtime": "2h 1m"
+    },
+    "219": {
+        "name": "Platoon",
+        "rating": "8.1",
+        "runtime": "2h"
+    },
+    "220": {
+        "name": "The Terminator",
+        "rating": "8.1",
+        "runtime": "1h 47m"
+    },
+    "221": {
+        "name": "The Passion of Joan of Arc",
+        "rating": "8.1",
+        "runtime": "1h 50m"
+    },
+    "222": {
+        "name": "Jai Bhim",
+        "rating": "8.7",
+        "runtime": "2h 44m"
+    },
+    "223": {
+        "name": "Before Sunset",
+        "rating": "8.1",
+        "runtime": "1h 20m"
+    },
+    "224": {
+        "name": "The Best Years of Our Lives",
+        "rating": "8.1",
+        "runtime": "2h 50m"
+    },
+    "225": {
+        "name": "La haine",
+        "rating": "8.1",
+        "runtime": "1h 38m"
+    },
+    "226": {
+        "name": "The Exorcist",
+        "rating": "8.1",
+        "runtime": "2h 2m"
+    },
+    "227": {
+        "name": "Rush",
+        "rating": "8.1",
+        "runtime": "2h 3m"
+    },
+    "228": {
+        "name": "Network",
+        "rating": "8.1",
+        "runtime": "2h 1m"
+    },
+    "229": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": "8.1",
+        "runtime": "2h 23m"
+    },
+    "230": {
+        "name": "Stand by Me",
+        "rating": "8.1",
+        "runtime": "1h 29m"
+    },
+    "231": {
+        "name": "The Wizard of Oz",
+        "rating": "8.1",
+        "runtime": "1h 42m"
+    },
+    "232": {
+        "name": "The Incredibles",
+        "rating": "8.0",
+        "runtime": "1h 55m"
+    },
+    "233": {
+        "name": "Into the Wild",
+        "rating": "8.1",
+        "runtime": "2h 28m"
+    },
+    "234": {
+        "name": "Hachi: A Dog's Tale",
+        "rating": "8.1",
+        "runtime": "1h 33m"
+    },
+    "235": {
+        "name": "The Handmaiden",
+        "rating": "8.1",
+        "runtime": "2h 25m"
+    },
+    "236": {
+        "name": "My Father and My Son",
+        "rating": "8.2",
+        "runtime": "1h 52m"
+    },
+    "237": {
+        "name": "To Be or Not to Be",
+        "rating": "8.1",
+        "runtime": "1h 39m"
+    },
+    "238": {
+        "name": "The Sound of Music",
+        "rating": "8.1",
+        "runtime": "2h 52m"
+    },
+    "239": {
+        "name": "The Grapes of Wrath",
+        "rating": "8.1",
+        "runtime": "2h 9m"
+    },
+    "240": {
+        "name": "Groundhog Day",
+        "rating": "8.0",
+        "runtime": "1h 41m"
+    },
+    "241": {
+        "name": "The Battle of Algiers",
+        "rating": "8.1",
+        "runtime": "2h 1m"
+    },
+    "242": {
+        "name": "Amores perros",
+        "rating": "8.1",
+        "runtime": "2h 34m"
+    },
+    "243": {
+        "name": "Rebecca",
+        "rating": "8.1",
+        "runtime": "2h 10m"
+    },
+    "244": {
+        "name": "Cool Hand Luke",
+        "rating": "8.1",
+        "runtime": "2h 7m"
+    },
+    "245": {
+        "name": "The Iron Giant",
+        "rating": "8.1",
+        "runtime": "1h 26m"
+    },
+    "246": {
+        "name": "The Help",
+        "rating": "8.1",
+        "runtime": "2h 26m"
+    },
+    "247": {
+        "name": "It Happened One Night",
+        "rating": "8.1",
+        "runtime": "1h 45m"
+    },
+    "248": {
+        "name": "The 400 Blows",
+        "rating": "8.1",
+        "runtime": "1h 39m"
+    },
+    "249": {
+        "name": "Drishyam",
+        "rating": "8.2",
+        "runtime": "2h 43m"
+    },
+    "250": {
+        "name": "Aladdin",
+        "rating": "8.0",
+        "runtime": "1h 30m"
+    }
+}
