@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
         })
         .then(data => {
             console.log(data); // Do something with the JSON data
-            data.forEach(movie => {
+            Object.values(data).forEach(movie => {
                 const movieItem = document.createElement('div');
                 movieItem.classList.add('movie-item');
 
