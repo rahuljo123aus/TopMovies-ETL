@@ -47,11 +47,12 @@ document.addEventListener('DOMContentLoaded', function () {
             if (!response.ok) {
             throw new Error('Network response was not ok');
             }
-            return response.json();
+            console.log(`status: ${response.status}`);
+            //return response.json();
         })
-        .then(data => {
+        /*.then(data => {
             console.log(data); // Do something with the JSON data
-        })
+        })*/
         .catch(error => {
             console.error('There was a problem with your fetch operation:', error);
         });
@@ -85,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch('output/movies.json')
         .then(response => response.json())
         .then(data => {
-            console.log(data); // Check the structure of the data
+            //console.log(data); // Check the structure of the data
             
             // Handle different data structures appropriately
             if (Array.isArray(data)) {
