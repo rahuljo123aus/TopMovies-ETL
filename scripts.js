@@ -63,6 +63,8 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(response => response.json())
         .then(data => {
             // Loop through the movies and create HTML elements for each movie
+            data = JSON.parse(data);
+            console.log(data);
             data.forEach(movie => {
                 const movieItem = document.createElement('div');
                 movieItem.classList.add('movie-item');
