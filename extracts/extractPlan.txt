@@ -1,0 +1,2 @@
+Fetch 250 movies from IMDB
+Additional information such actors list, production details regarding the movie could be found using OMDB API

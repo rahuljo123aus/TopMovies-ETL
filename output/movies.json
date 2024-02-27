@@ -1,1252 +1,2741 @@
 {
     "1": {
-        "name": "The Shawshank Redemption",
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "writer": "Stephen King, Frank Darabont",
         "rating": "9.3",
-        "runtime": "2h 22m"
+        "runtime": "2h 22m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "1994",
+        "language": "English"
     },
     "2": {
-        "name": "The Godfather",
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "writer": "Mario Puzo, Francis Ford Coppola",
         "rating": "9.2",
-        "runtime": "2h 55m"
+        "runtime": "2h 55m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1972",
+        "language": "English, Italian, Latin"
     },
     "3": {
-        "name": "The Dark Knight",
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
         "rating": "9.0",
-        "runtime": "2h 32m"
+        "runtime": "2h 32m",
+        "genre": "Action, Crime, Drama",
+        "country": "United States, United Kingdom",
+        "year": "2008",
+        "language": "English, Mandarin"
     },
     "4": {
-        "name": "The Godfather: Part II",
+        "title": "The Godfather Part II",
+        "director": "Francis Ford Coppola",
+        "writer": "Francis Ford Coppola, Mario Puzo",
         "rating": "9.0",
-        "runtime": "3h 22m"
+        "runtime": "3h 22m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1974",
+        "language": "English, Italian, Spanish, Latin, Sicilian"
     },
     "5": {
-        "name": "12 Angry Men",
+        "title": "12 Angry Men",
+        "director": "Sidney Lumet",
+        "writer": "Reginald Rose",
         "rating": "9.0",
-        "runtime": "1h 36m"
+        "runtime": "1h 36m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1957",
+        "language": "English"
     },
     "6": {
-        "name": "Schindler's List",
+        "title": "Schindler's List",
+        "director": "Steven Spielberg",
+        "writer": "Thomas Keneally, Steven Zaillian",
         "rating": "9.0",
-        "runtime": "3h 15m"
+        "runtime": "3h 15m",
+        "genre": "Biography, Drama, History",
+        "country": "United States",
+        "year": "1993",
+        "language": "English, Hebrew, German, Polish, Latin"
     },
     "7": {
-        "name": "The Lord of the Rings: The Return of the King",
+        "title": "The Lord of the Rings: The Return of the King",
+        "director": "Peter Jackson",
+        "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
         "rating": "9.0",
-        "runtime": "3h 21m"
+        "runtime": "3h 21m",
+        "genre": "Action, Adventure, Drama",
+        "country": "New Zealand, United States",
+        "year": "2003",
+        "language": "English, Quenya, Old English, Sindarin"
     },
     "8": {
-        "name": "Pulp Fiction",
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino, Roger Avary",
         "rating": "8.9",
-        "runtime": "2h 34m"
+        "runtime": "2h 34m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1994",
+        "language": "English, Spanish, French"
     },
     "9": {
-        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "director": "Peter Jackson",
+        "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
         "rating": "8.9",
-        "runtime": "2h 58m"
+        "runtime": "2h 58m",
+        "genre": "Action, Adventure, Drama",
+        "country": "New Zealand, United States",
+        "year": "2001",
+        "language": "English, Sindarin"
     },
     "10": {
-        "name": "The Good, the Bad and the Ugly",
+        "title": "The Good, the Bad and the Ugly",
+        "director": "Sergio Leone",
+        "writer": "Luciano Vincenzoni, Sergio Leone, Agenore Incrocci",
         "rating": "8.8",
-        "runtime": "2h 41m"
+        "runtime": "2h 41m",
+        "genre": "Adventure, Western",
+        "country": "Italy, Spain, West Germany",
+        "year": "1966",
+        "language": "Italian"
     },
     "11": {
-        "name": "Forrest Gump",
+        "title": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "writer": "Winston Groom, Eric Roth",
         "rating": "8.8",
-        "runtime": "2h 22m"
+        "runtime": "2h 22m",
+        "genre": "Drama, Romance",
+        "country": "United States",
+        "year": "1994",
+        "language": "English"
     },
     "12": {
-        "name": "The Lord of the Rings: The Two Towers",
+        "title": "The Lord of the Rings: The Two Towers",
+        "director": "Peter Jackson",
+        "writer": "J.R.R. Tolkien, Fran Walsh, Philippa Boyens",
         "rating": "8.8",
-        "runtime": "2h 59m"
+        "runtime": "2h 59m",
+        "genre": "Action, Adventure, Drama",
+        "country": "New Zealand, United States",
+        "year": "2002",
+        "language": "English, Sindarin, Old English"
     },
     "13": {
-        "name": "Fight Club",
+        "title": "Fight Club",
+        "director": "David Fincher",
+        "writer": "Chuck Palahniuk, Jim Uhls",
         "rating": "8.8",
-        "runtime": "2h 19m"
+        "runtime": "2h 19m",
+        "genre": "Drama",
+        "country": "Germany, United States",
+        "year": "1999",
+        "language": "English"
     },
     "14": {
-        "name": "Inception",
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "writer": "Christopher Nolan",
         "rating": "8.8",
-        "runtime": "2h 28m"
+        "runtime": "2h 28m",
+        "genre": "Action, Adventure, Sci-Fi",
+        "country": "United States, United Kingdom",
+        "year": "2010",
+        "language": "English, Japanese, French"
     },
     "15": {
-        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "director": "Irvin Kershner",
+        "writer": "Leigh Brackett, Lawrence Kasdan, George Lucas",
         "rating": "8.7",
-        "runtime": "2h 4m"
+        "runtime": "2h 4m",
+        "genre": "Action, Adventure, Fantasy",
+        "country": "United States",
+        "year": "1980",
+        "language": "English"
     },
     "16": {
-        "name": "The Matrix",
+        "title": "The Matrix",
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "writer": "Lilly Wachowski, Lana Wachowski",
         "rating": "8.7",
-        "runtime": "2h 16m"
+        "runtime": "2h 16m",
+        "genre": "Action, Sci-Fi",
+        "country": "United States, Australia",
+        "year": "1999",
+        "language": "English"
     },
     "17": {
-        "name": "GoodFellas",
+        "title": "Goodfellas",
+        "director": "Martin Scorsese",
+        "writer": "Nicholas Pileggi, Martin Scorsese",
         "rating": "8.7",
-        "runtime": "2h 25m"
+        "runtime": "2h 25m",
+        "genre": "Biography, Crime, Drama",
+        "country": "United States",
+        "year": "1990",
+        "language": "English, Italian"
     },
     "18": {
-        "name": "One Flew Over the Cuckoo's Nest",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "director": "Milos Forman",
+        "writer": "Lawrence Hauben, Bo Goldman, Ken Kesey",
         "rating": "8.7",
-        "runtime": "2h 13m"
+        "runtime": "2h 13m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "1975",
+        "language": "English"
     },
     "19": {
-        "name": "Se7en",
+        "title": "Se7en",
+        "director": "David Fincher",
+        "writer": "Andrew Kevin Walker",
         "rating": "8.6",
-        "runtime": "2h 7m"
+        "runtime": "2h 7m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "United States",
+        "year": "1995",
+        "language": "English"
     },
     "20": {
-        "name": "It's a Wonderful Life",
+        "title": "It's a Wonderful Life",
+        "director": "Frank Capra",
+        "writer": "Frances Goodrich, Albert Hackett, Frank Capra",
         "rating": "8.6",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Drama, Family, Fantasy",
+        "country": "United States",
+        "year": "1946",
+        "language": "English, French"
     },
     "21": {
-        "name": "Interstellar",
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan",
         "rating": "8.7",
-        "runtime": "2h 49m"
+        "runtime": "2h 49m",
+        "genre": "Adventure, Drama, Sci-Fi",
+        "country": "United States, United Kingdom, Canada",
+        "year": "2014",
+        "language": "English"
     },
     "22": {
-        "name": "Seven Samurai",
+        "title": "Seven Samurai",
+        "director": "Akira Kurosawa",
+        "writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
         "rating": "8.6",
-        "runtime": "3h 27m"
+        "runtime": "3h 27m",
+        "genre": "Action, Drama",
+        "country": "Japan",
+        "year": "1954",
+        "language": "Japanese"
     },
     "23": {
-        "name": "The Silence of the Lambs",
+        "title": "The Silence of the Lambs",
+        "director": "Jonathan Demme",
+        "writer": "Thomas Harris, Ted Tally",
         "rating": "8.6",
-        "runtime": "1h 58m"
+        "runtime": "1h 58m",
+        "genre": "Crime, Drama, Thriller",
+        "country": "United States",
+        "year": "1991",
+        "language": "English, Latin"
     },
     "24": {
-        "name": "Saving Private Ryan",
+        "title": "Saving Private Ryan",
+        "director": "Steven Spielberg",
+        "writer": "Robert Rodat",
         "rating": "8.6",
-        "runtime": "2h 49m"
+        "runtime": "2h 49m",
+        "genre": "Drama, War",
+        "country": "United States",
+        "year": "1998",
+        "language": "English, French, German, Czech"
     },
     "25": {
-        "name": "City of God",
+        "title": "City of God",
+        "director": "Fernando Meirelles, K\u00e1tia Lund",
+        "writer": "Paulo Lins, Br\u00e1ulio Mantovani",
         "rating": "8.6",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Crime, Drama",
+        "country": "Brazil, France, Germany",
+        "year": "2002",
+        "language": "Portuguese"
     },
     "26": {
-        "name": "Life Is Beautiful",
+        "title": "Life Is Beautiful",
+        "director": "Roberto Benigni",
+        "writer": "Vincenzo Cerami, Roberto Benigni",
         "rating": "8.6",
-        "runtime": "1h 56m"
+        "runtime": "1h 56m",
+        "genre": "Comedy, Drama, Romance",
+        "country": "Italy",
+        "year": "1997",
+        "language": "Italian, German, English"
     },
     "27": {
-        "name": "The Green Mile",
+        "title": "The Green Mile",
+        "director": "Frank Darabont",
+        "writer": "Stephen King, Frank Darabont",
         "rating": "8.6",
-        "runtime": "3h 9m"
+        "runtime": "3h 9m",
+        "genre": "Crime, Drama, Fantasy",
+        "country": "United States",
+        "year": "1999",
+        "language": "English, French"
     },
     "28": {
-        "name": "Terminator 2: Judgment Day",
+        "title": "Terminator 2: Judgment Day",
+        "director": "James Cameron",
+        "writer": "James Cameron, William Wisher",
         "rating": "8.6",
-        "runtime": "2h 17m"
+        "runtime": "2h 17m",
+        "genre": "Action, Sci-Fi",
+        "country": "United States",
+        "year": "1991",
+        "language": "English, Spanish"
     },
     "29": {
-        "name": "Star Wars: Episode IV - A New Hope",
+        "title": "Star Wars: Episode IV - A New Hope",
+        "director": "George Lucas",
+        "writer": "George Lucas",
         "rating": "8.6",
-        "runtime": "2h 1m"
+        "runtime": "2h 1m",
+        "genre": "Action, Adventure, Fantasy",
+        "country": "United States",
+        "year": "1977",
+        "language": "English"
     },
     "30": {
-        "name": "Back to the Future",
+        "title": "Back to the Future",
+        "director": "Robert Zemeckis",
+        "writer": "Robert Zemeckis, Bob Gale",
         "rating": "8.5",
-        "runtime": "1h 56m"
+        "runtime": "1h 56m",
+        "genre": "Adventure, Comedy, Sci-Fi",
+        "country": "United States",
+        "year": "1985",
+        "language": "English"
     },
     "31": {
-        "name": "Spirited Away",
+        "title": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "writer": "Hayao Miyazaki",
         "rating": "8.6",
-        "runtime": "2h 5m"
+        "runtime": "2h 5m",
+        "genre": "Animation, Adventure, Family",
+        "country": "Japan",
+        "year": "2001",
+        "language": "Japanese"
     },
     "32": {
-        "name": "The Pianist",
+        "title": "The Pianist",
+        "director": "Roman Polanski",
+        "writer": "Ronald Harwood, Wladyslaw Szpilman",
         "rating": "8.5",
-        "runtime": "2h 30m"
+        "runtime": "2h 30m",
+        "genre": "Biography, Drama, Music",
+        "country": "France, Poland, Germany, United Kingdom, United States",
+        "year": "2002",
+        "language": "English, German, Russian"
     },
     "33": {
-        "name": "Spider-Man: Across the Spider-Verse",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "director": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+        "writer": "Phil Lord, Christopher Miller, Dave Callaham",
         "rating": "8.6",
-        "runtime": "2h 20m"
+        "runtime": "2h 20m",
+        "genre": "Animation, Action, Adventure",
+        "country": "United States",
+        "year": "2023",
+        "language": "English"
     },
     "34": {
-        "name": "Parasite",
+        "title": "Parasite",
+        "director": "Bong Joon Ho",
+        "writer": "Bong Joon Ho, Han Jin-won",
         "rating": "8.5",
-        "runtime": "2h 12m"
+        "runtime": "2h 12m",
+        "genre": "Drama, Thriller",
+        "country": "South Korea",
+        "year": "2019",
+        "language": "Korean, English"
     },
     "35": {
-        "name": "Psycho",
+        "title": "Psycho",
+        "director": "Alfred Hitchcock",
+        "writer": "Joseph Stefano, Robert Bloch",
         "rating": "8.5",
-        "runtime": "1h 49m"
+        "runtime": "1h 49m",
+        "genre": "Horror, Mystery, Thriller",
+        "country": "United States",
+        "year": "1960",
+        "language": "English"
     },
     "36": {
-        "name": "Gladiator",
+        "title": "Gladiator",
+        "director": "Ridley Scott",
+        "writer": "David Franzoni, John Logan, William Nicholson",
         "rating": "8.5",
-        "runtime": "2h 35m"
+        "runtime": "2h 35m",
+        "genre": "Action, Adventure, Drama",
+        "country": "United States, United Kingdom, Malta, Morocco",
+        "year": "2000",
+        "language": "English"
     },
     "37": {
-        "name": "The Lion King",
+        "title": "The Lion King",
+        "director": "Roger Allers, Rob Minkoff",
+        "writer": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
         "rating": "8.5",
-        "runtime": "1h 28m"
+        "runtime": "1h 28m",
+        "genre": "Animation, Adventure, Drama",
+        "country": "United States",
+        "year": "1994",
+        "language": "English, Swahili, Xhosa, Zulu"
     },
     "38": {
-        "name": "Leon: The Professional",
+        "title": "L\u00e9on: The Professional",
+        "director": "Luc Besson",
+        "writer": "Luc Besson",
         "rating": "8.5",
-        "runtime": "1h 50m"
+        "runtime": "1h 50m",
+        "genre": "Action, Crime, Drama",
+        "country": "France, United States",
+        "year": "1994",
+        "language": "English, Italian, French"
     },
     "39": {
-        "name": "The Departed",
+        "title": "The Departed",
+        "director": "Martin Scorsese",
+        "writer": "William Monahan, Alan Mak, Felix Chong",
         "rating": "8.5",
-        "runtime": "2h 31m"
+        "runtime": "2h 31m",
+        "genre": "Crime, Drama, Thriller",
+        "country": "United States, Hong Kong",
+        "year": "2006",
+        "language": "English, Cantonese"
     },
     "40": {
-        "name": "American History X",
+        "title": "American History X",
+        "director": "Tony Kaye",
+        "writer": "David McKenna",
         "rating": "8.5",
-        "runtime": "1h 59m"
+        "runtime": "1h 59m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1998",
+        "language": "English"
     },
     "41": {
-        "name": "Whiplash",
+        "title": "Whiplash",
+        "director": "Damien Chazelle",
+        "writer": "Damien Chazelle",
         "rating": "8.5",
-        "runtime": "1h 46m"
+        "runtime": "1h 46m",
+        "genre": "Drama, Music",
+        "country": "United States",
+        "year": "2014",
+        "language": "English"
     },
     "42": {
-        "name": "The Prestige",
+        "title": "The Prestige",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan, Christopher Priest",
         "rating": "8.5",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Drama, Mystery, Sci-Fi",
+        "country": "United Kingdom, United States",
+        "year": "2006",
+        "language": "English"
     },
     "43": {
-        "name": "Grave of the Fireflies",
+        "title": "Grave of the Fireflies",
+        "director": "Isao Takahata",
+        "writer": "Akiyuki Nosaka, Isao Takahata",
         "rating": "8.5",
-        "runtime": "1h 29m"
+        "runtime": "1h 29m",
+        "genre": "Animation, Drama, War",
+        "country": "Japan, United States",
+        "year": "1988",
+        "language": "English, Japanese"
     },
     "44": {
-        "name": "Seppuku",
+        "title": "Harakiri",
+        "director": "Masaki Kobayashi",
+        "writer": "Yasuhiko Takiguchi, Shinobu Hashimoto",
         "rating": "8.6",
-        "runtime": "2h 13m"
+        "runtime": "2h 13m",
+        "genre": "Action, Drama, Mystery",
+        "country": "Japan",
+        "year": "1962",
+        "language": "Japanese"
     },
     "45": {
-        "name": "The Usual Suspects",
+        "title": "The Usual Suspects",
+        "director": "Bryan Singer",
+        "writer": "Christopher McQuarrie",
         "rating": "8.5",
-        "runtime": "1h 46m"
+        "runtime": "1h 46m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "United States, Germany",
+        "year": "1995",
+        "language": "English, Hungarian, Spanish, French"
     },
     "46": {
-        "name": "Casablanca",
+        "title": "Casablanca",
+        "director": "Michael Curtiz",
+        "writer": "Julius J. Epstein, Philip G. Epstein, Howard Koch",
         "rating": "8.5",
-        "runtime": "1h 42m"
+        "runtime": "1h 42m",
+        "genre": "Drama, Romance, War",
+        "country": "United States",
+        "year": "1942",
+        "language": "English, French, German, Italian, Russian"
     },
     "47": {
-        "name": "The Intouchables",
+        "title": "The Intouchables",
+        "director": "Olivier Nakache, \u00c9ric Toledano",
+        "writer": "Olivier Nakache, \u00c9ric Toledano, Philippe Pozzo di Borgo",
         "rating": "8.5",
-        "runtime": "1h 52m"
+        "runtime": "1h 52m",
+        "genre": "Comedy, Drama",
+        "country": "France",
+        "year": "2011",
+        "language": "French, English"
     },
     "48": {
-        "name": "Modern Times",
+        "title": "Modern Times",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
         "rating": "8.5",
-        "runtime": "1h 27m"
+        "runtime": "1h 27m",
+        "genre": "Comedy, Drama, Romance",
+        "country": "United States",
+        "year": "1936",
+        "language": "English"
     },
     "49": {
-        "name": "Cinema Paradiso",
+        "title": "Cinema Paradiso",
+        "director": "Giuseppe Tornatore",
+        "writer": "Giuseppe Tornatore, Vanna Paoli",
         "rating": "8.5",
-        "runtime": "2h 54m"
+        "runtime": "2h 54m",
+        "genre": "Drama, Romance",
+        "country": "Italy, France",
+        "year": "1988",
+        "language": "Italian"
     },
     "50": {
-        "name": "Rear Window",
+        "title": "Rear Window",
+        "director": "Alfred Hitchcock",
+        "writer": "John Michael Hayes, Cornell Woolrich",
         "rating": "8.5",
-        "runtime": "1h 52m"
+        "runtime": "1h 52m",
+        "genre": "Mystery, Thriller",
+        "country": "United States",
+        "year": "1954",
+        "language": "English"
     },
     "51": {
-        "name": "Once Upon a Time in the West",
+        "title": "Once Upon a Time in the West",
+        "director": "Sergio Leone",
+        "writer": "Sergio Donati, Sergio Leone, Dario Argento",
         "rating": "8.5",
-        "runtime": "2h 46m"
+        "runtime": "2h 46m",
+        "genre": "Western",
+        "country": "Italy, United States",
+        "year": "1968",
+        "language": "Italian, English, Spanish"
     },
     "52": {
-        "name": "Alien",
+        "title": "Alien",
+        "director": "Ridley Scott",
+        "writer": "Dan O'Bannon, Ronald Shusett",
         "rating": "8.5",
-        "runtime": "1h 57m"
+        "runtime": "1h 57m",
+        "genre": "Horror, Sci-Fi",
+        "country": "United Kingdom, United States",
+        "year": "1979",
+        "language": "English"
     },
     "53": {
-        "name": "12th Fail",
+        "title": "12th Fail",
+        "director": "Vidhu Vinod Chopra",
+        "writer": "Vidhu Vinod Chopra, Jaskunwar Kohli, Anurag Pathak",
         "rating": "9.1",
-        "runtime": "2h 27m"
+        "runtime": "2h 27m",
+        "genre": "Biography, Drama",
+        "country": "India",
+        "year": "2023",
+        "language": "Hindi, Malayalam, Tamil, Telugu, Kannada"
     },
     "54": {
-        "name": "City Lights",
+        "title": "City Lights",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin, Harry Carr, Harry Crocker",
         "rating": "8.5",
-        "runtime": "1h 27m"
+        "runtime": "1h 27m",
+        "genre": "Comedy, Drama, Romance",
+        "country": "United States",
+        "year": "1931",
+        "language": "None, English"
     },
     "55": {
-        "name": "Apocalypse Now",
+        "title": "Apocalypse Now",
+        "director": "Francis Ford Coppola",
+        "writer": "John Milius, Francis Ford Coppola, Michael Herr",
         "rating": "8.4",
-        "runtime": "2h 27m"
+        "runtime": "2h 27m",
+        "genre": "Drama, Mystery, War",
+        "country": "United States",
+        "year": "1979",
+        "language": "English, French, Vietnamese"
     },
     "56": {
-        "name": "Django Unchained",
+        "title": "Django Unchained",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino",
         "rating": "8.5",
-        "runtime": "2h 45m"
+        "runtime": "2h 45m",
+        "genre": "Drama, Western",
+        "country": "United States",
+        "year": "2012",
+        "language": "English, German, French, Italian"
     },
     "57": {
-        "name": "Memento",
+        "title": "Memento",
+        "director": "Christopher Nolan",
+        "writer": "Christopher Nolan, Jonathan Nolan",
         "rating": "8.4",
-        "runtime": "1h 53m"
+        "runtime": "1h 53m",
+        "genre": "Mystery, Thriller",
+        "country": "United States",
+        "year": "2000",
+        "language": "English"
     },
     "58": {
-        "name": "WALLE",
+        "title": "WALL\u00b7E",
+        "director": "Andrew Stanton",
+        "writer": "Andrew Stanton, Pete Docter, Jim Reardon",
         "rating": "8.4",
-        "runtime": "1h 38m"
+        "runtime": "1h 38m",
+        "genre": "Animation, Adventure, Family",
+        "country": "United States, Japan",
+        "year": "2008",
+        "language": "English, Russian, Ukrainian"
     },
     "59": {
-        "name": "Raiders of the Lost Ark",
+        "title": "Raiders of the Lost Ark",
+        "director": "Steven Spielberg",
+        "writer": "Lawrence Kasdan, George Lucas, Philip Kaufman",
         "rating": "8.4",
-        "runtime": "1h 55m"
+        "runtime": "1h 55m",
+        "genre": "Action, Adventure",
+        "country": "United States",
+        "year": "1981",
+        "language": "English, German, Spanish, Nepali, Hebrew, Arabic"
     },
     "60": {
-        "name": "The Lives of Others",
+        "title": "The Lives of Others",
+        "director": "Florian Henckel von Donnersmarck",
+        "writer": "Florian Henckel von Donnersmarck",
         "rating": "8.4",
-        "runtime": "2h 17m"
+        "runtime": "2h 17m",
+        "genre": "Drama, Mystery, Thriller",
+        "country": "Germany, France",
+        "year": "2006",
+        "language": "German"
     },
     "61": {
-        "name": "Sunset Boulevard",
+        "title": "Sunset Blvd.",
+        "director": "Billy Wilder",
+        "writer": "Charles Brackett, Billy Wilder, D.M. Marshman Jr.",
         "rating": "8.4",
-        "runtime": "1h 50m"
+        "runtime": "1h 50m",
+        "genre": "Drama, Film-Noir",
+        "country": "United States",
+        "year": "1950",
+        "language": "English"
     },
     "62": {
-        "name": "Paths of Glory",
+        "title": "Paths of Glory",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Calder Willingham, Jim Thompson",
         "rating": "8.4",
-        "runtime": "1h 28m"
+        "runtime": "1h 28m",
+        "genre": "Drama, War",
+        "country": "United States",
+        "year": "1957",
+        "language": "English, German, Latin"
     },
     "63": {
-        "name": "Avengers: Infinity War",
+        "title": "Avengers: Infinity War",
+        "director": "Anthony Russo, Joe Russo",
+        "writer": "Christopher Markus, Stephen McFeely, Stan Lee",
         "rating": "8.4",
-        "runtime": "2h 29m"
+        "runtime": "2h 29m",
+        "genre": "Action, Adventure, Sci-Fi",
+        "country": "United States, Norway",
+        "year": "2018",
+        "language": "English"
     },
     "64": {
-        "name": "Spider-Man: Into the Spider-Verse",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "writer": "Phil Lord, Rodney Rothman",
         "rating": "8.4",
-        "runtime": "1h 57m"
+        "runtime": "1h 57m",
+        "genre": "Animation, Action, Adventure",
+        "country": "Canada, United States",
+        "year": "2018",
+        "language": "English, Spanish"
     },
     "65": {
-        "name": "The Shining",
+        "title": "The Shining",
+        "director": "Stanley Kubrick",
+        "writer": "Stephen King, Stanley Kubrick, Diane Johnson",
         "rating": "8.4",
-        "runtime": "2h 26m"
+        "runtime": "2h 26m",
+        "genre": "Drama, Horror",
+        "country": "United Kingdom, United States",
+        "year": "1980",
+        "language": "English"
     },
     "66": {
-        "name": "Witness for the Prosecution",
+        "title": "Witness for the Prosecution",
+        "director": "Billy Wilder",
+        "writer": "Agatha Christie, Billy Wilder, Harry Kurnitz",
         "rating": "8.4",
-        "runtime": "1h 51m"
+        "runtime": "1h 51m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "United States",
+        "year": "1957",
+        "language": "English, German"
     },
     "67": {
-        "name": "The Great Dictator",
+        "title": "The Great Dictator",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
         "rating": "8.4",
-        "runtime": "2h 5m"
+        "runtime": "2h 5m",
+        "genre": "Comedy, Drama, War",
+        "country": "United States",
+        "year": "1940",
+        "language": "English, Esperanto, Latin"
     },
     "68": {
-        "name": "Aliens",
+        "title": "Aliens",
+        "director": "James Cameron",
+        "writer": "James Cameron, David Giler, Walter Hill",
         "rating": "8.4",
-        "runtime": "2h 17m"
+        "runtime": "2h 17m",
+        "genre": "Action, Adventure, Sci-Fi",
+        "country": "United Kingdom, United States",
+        "year": "1986",
+        "language": "English, Spanish"
     },
     "69": {
-        "name": "Inglourious Basterds",
+        "title": "Inglourious Basterds",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino",
         "rating": "8.4",
-        "runtime": "2h 33m"
+        "runtime": "2h 33m",
+        "genre": "Adventure, Drama, War",
+        "country": "Germany, United States",
+        "year": "2009",
+        "language": "English, German, French, Italian"
     },
     "70": {
-        "name": "The Dark Knight Rises",
+        "title": "The Dark Knight Rises",
+        "director": "Christopher Nolan",
+        "writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
         "rating": "8.4",
-        "runtime": "2h 44m"
+        "runtime": "2h 44m",
+        "genre": "Action, Drama, Thriller",
+        "country": "United States, United Kingdom",
+        "year": "2012",
+        "language": "English, Arabic"
     },
     "71": {
-        "name": "Dr",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Terry Southern, Peter George",
         "rating": "8.4",
-        "runtime": "1h 35m"
+        "runtime": "1h 35m",
+        "genre": "Comedy, War",
+        "country": "United Kingdom, United States",
+        "year": "1964",
+        "language": "English, Russian"
     },
     "72": {
-        "name": "American Beauty",
+        "title": "American Beauty",
+        "director": "Sam Mendes",
+        "writer": "Alan Ball",
         "rating": "8.3",
-        "runtime": "2h 2m"
+        "runtime": "2h 2m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "1999",
+        "language": "English"
     },
     "73": {
-        "name": "Oldboy",
+        "title": "Oldboy",
+        "director": "Park Chan-wook",
+        "writer": "Garon Tsuchiya, Nobuaki Minegishi, Park Chan-wook",
         "rating": "8.3",
-        "runtime": "2h"
+        "runtime": "2h",
+        "genre": "Action, Drama, Mystery",
+        "country": "South Korea",
+        "year": "2003",
+        "language": "Korean"
     },
     "74": {
-        "name": "Coco",
+        "title": "Coco",
+        "director": "Lee Unkrich, Adrian Molina",
+        "writer": "Lee Unkrich, Jason Katz, Matthew Aldrich",
         "rating": "8.4",
-        "runtime": "1h 45m"
+        "runtime": "1h 45m",
+        "genre": "Animation, Adventure, Drama",
+        "country": "United States, Mexico, Japan",
+        "year": "2017",
+        "language": "English, Spanish"
     },
     "75": {
-        "name": "Amadeus",
+        "title": "Amadeus",
+        "director": "Milos Forman",
+        "writer": "Peter Shaffer, Zdenek Mahler",
         "rating": "8.4",
-        "runtime": "2h 40m"
+        "runtime": "2h 40m",
+        "genre": "Biography, Drama, Music",
+        "country": "United States, France",
+        "year": "1984",
+        "language": "English, Italian, Latin, German, French"
     },
     "76": {
-        "name": "Toy Story",
+        "title": "Toy Story",
+        "director": "John Lasseter",
+        "writer": "John Lasseter, Pete Docter, Andrew Stanton",
         "rating": "8.3",
-        "runtime": "1h 21m"
+        "runtime": "1h 21m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States, Japan",
+        "year": "1995",
+        "language": "English, Russian, Ukrainian"
     },
     "77": {
-        "name": "Das Boot",
+        "title": "The Boat",
+        "director": "Wolfgang Petersen",
+        "writer": "Wolfgang Petersen, Lothar G. Buchheim",
         "rating": "8.4",
-        "runtime": "2h 29m"
+        "runtime": "2h 29m",
+        "genre": "Drama, War",
+        "country": "West Germany, Italy, France, United Kingdom",
+        "year": "1981",
+        "language": "German"
     },
     "78": {
-        "name": "Braveheart",
+        "title": "Braveheart",
+        "director": "Mel Gibson",
+        "writer": "Randall Wallace",
         "rating": "8.3",
-        "runtime": "2h 58m"
+        "runtime": "2h 58m",
+        "genre": "Biography, Drama, History",
+        "country": "United States",
+        "year": "1995",
+        "language": "English, French, Latin, Gaelic, Italian"
     },
     "79": {
-        "name": "Avengers: Endgame",
+        "title": "Avengers: Endgame",
+        "director": "Anthony Russo, Joe Russo",
+        "writer": "Christopher Markus, Stephen McFeely, Stan Lee",
         "rating": "8.4",
-        "runtime": "3h 1m"
+        "runtime": "3h 1m",
+        "genre": "Action, Adventure, Drama",
+        "country": "United States",
+        "year": "2019",
+        "language": "English, Japanese, Xhosa, German"
     },
     "80": {
-        "name": "Joker",
+        "title": "Joker",
+        "director": "Todd Phillips",
+        "writer": "Todd Phillips, Scott Silver, Bob Kane",
         "rating": "8.4",
-        "runtime": "2h 2m"
+        "runtime": "2h 2m",
+        "genre": "Crime, Drama, Thriller",
+        "country": "United States, Canada, Australia",
+        "year": "2019",
+        "language": "English, German"
     },
     "81": {
-        "name": "Princess Mononoke",
+        "title": "Princess Mononoke",
+        "director": "Hayao Miyazaki",
+        "writer": "Hayao Miyazaki, Neil Gaiman",
         "rating": "8.3",
-        "runtime": "2h 14m"
+        "runtime": "2h 14m",
+        "genre": "Animation, Action, Adventure",
+        "country": "Japan",
+        "year": "1997",
+        "language": "Japanese"
     },
     "82": {
-        "name": "Good Will Hunting",
+        "title": "Good Will Hunting",
+        "director": "Gus Van Sant",
+        "writer": "Matt Damon, Ben Affleck",
         "rating": "8.3",
-        "runtime": "2h 6m"
+        "runtime": "2h 6m",
+        "genre": "Drama, Romance",
+        "country": "United States",
+        "year": "1997",
+        "language": "English"
     },
     "83": {
-        "name": "Oppenheimer",
+        "title": "Your Name.",
+        "director": "Makoto Shinkai",
+        "writer": "Makoto Shinkai, Clark Cheng",
         "rating": "8.4",
-        "runtime": "3h"
+        "runtime": "1h 46m",
+        "genre": "Animation, Drama, Fantasy",
+        "country": "Japan",
+        "year": "2016",
+        "language": "Japanese"
     },
     "84": {
-        "name": "Your Name",
+        "title": "Oppenheimer",
+        "director": "Christopher Nolan",
+        "writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
         "rating": "8.4",
-        "runtime": "1h 46m"
+        "runtime": "3h",
+        "genre": "Biography, Drama, History",
+        "country": "United States, United Kingdom",
+        "year": "2023",
+        "language": "English, German, Italian"
     },
     "85": {
-        "name": "Once Upon a Time in America",
+        "title": "Once Upon a Time in America",
+        "director": "Sergio Leone",
+        "writer": "Harry Grey, Leonardo Benvenuti, Piero De Bernardi",
         "rating": "8.3",
-        "runtime": "3h 49m"
+        "runtime": "3h 49m",
+        "genre": "Crime, Drama",
+        "country": "United States, Italy",
+        "year": "1984",
+        "language": "English, Italian, French, Yiddish, Hebrew"
     },
     "86": {
-        "name": "High and Low",
+        "title": "High and Low",
+        "director": "Akira Kurosawa",
+        "writer": "Hideo Oguni, Ry\u00fbz\u00f4 Kikushima, Eijir\u00f4 Hisaita",
         "rating": "8.4",
-        "runtime": "2h 23m"
+        "runtime": "2h 23m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "Japan",
+        "year": "1963",
+        "language": "Japanese"
     },
     "87": {
-        "name": "3 Idiots",
+        "title": "3 Idiots",
+        "director": "Rajkumar Hirani",
+        "writer": "Abhijat Joshi, Rajkumar Hirani, Vidhu Vinod Chopra",
         "rating": "8.4",
-        "runtime": "2h 50m"
+        "runtime": "2h 50m",
+        "genre": "Comedy, Drama",
+        "country": "India",
+        "year": "2009",
+        "language": "Hindi, English"
     },
     "88": {
-        "name": "Singin' in the Rain",
+        "title": "Singin' in the Rain",
+        "director": "Stanley Donen, Gene Kelly",
+        "writer": "Betty Comden, Adolph Green",
         "rating": "8.3",
-        "runtime": "1h 43m"
+        "runtime": "1h 43m",
+        "genre": "Comedy, Musical, Romance",
+        "country": "United States",
+        "year": "1952",
+        "language": "English"
     },
     "89": {
-        "name": "Capharnam",
+        "title": "Capernaum",
+        "director": "Nadine Labaki",
+        "writer": "Nadine Labaki, Jihad Hojeily, Michelle Keserwany",
         "rating": "8.4",
-        "runtime": "2h 6m"
+        "runtime": "2h 6m",
+        "genre": "Drama",
+        "country": "Lebanon, United States, France, Cyprus, Qatar, United Kingdom",
+        "year": "2018",
+        "language": "Arabic, Amharic"
     },
     "90": {
-        "name": "Requiem for a Dream",
+        "title": "Requiem for a Dream",
+        "director": "Darren Aronofsky",
+        "writer": "Hubert Selby Jr., Darren Aronofsky",
         "rating": "8.3",
-        "runtime": "1h 42m"
+        "runtime": "1h 42m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "2000",
+        "language": "English"
     },
     "91": {
-        "name": "Idi i smotri",
+        "title": "Come and See",
+        "director": "Elem Klimov",
+        "writer": "Ales Adamovich, Elem Klimov",
         "rating": "8.4",
-        "runtime": "2h 22m"
+        "runtime": "2h 22m",
+        "genre": "Drama, Thriller, War",
+        "country": "Soviet Union",
+        "year": "1985",
+        "language": "Belarusian, Russian, German"
     },
     "92": {
-        "name": "Toy Story 3",
+        "title": "Toy Story 3",
+        "director": "Lee Unkrich",
+        "writer": "John Lasseter, Andrew Stanton, Lee Unkrich",
         "rating": "8.3",
-        "runtime": "1h 43m"
+        "runtime": "1h 43m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States, Japan",
+        "year": "2010",
+        "language": "English, Russian, Spanish, Ukrainian"
     },
     "93": {
-        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "director": "Richard Marquand",
+        "writer": "Lawrence Kasdan, George Lucas",
         "rating": "8.3",
-        "runtime": "2h 11m"
+        "runtime": "2h 11m",
+        "genre": "Action, Adventure, Fantasy",
+        "country": "United States",
+        "year": "1983",
+        "language": "English, Kikuyu, Tagalog, Kalmyk-Oirat, Quechua, Polish"
     },
     "94": {
-        "name": "Eternal Sunshine of the Spotless Mind",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "director": "Michel Gondry",
+        "writer": "Charlie Kaufman, Michel Gondry, Pierre Bismuth",
         "rating": "8.3",
-        "runtime": "1h 48m"
+        "runtime": "1h 48m",
+        "genre": "Drama, Romance, Sci-Fi",
+        "country": "United States",
+        "year": "2004",
+        "language": "English"
     },
     "95": {
-        "name": "The Hunt",
+        "title": "The Hunt",
+        "director": "Thomas Vinterberg",
+        "writer": "Thomas Vinterberg, Tobias Lindholm",
         "rating": "8.3",
-        "runtime": "1h 55m"
+        "runtime": "1h 55m",
+        "genre": "Drama",
+        "country": "Denmark, Sweden",
+        "year": "2012",
+        "language": "Danish, English, Polish"
     },
     "96": {
-        "name": "2001: A Space Odyssey",
+        "title": "2001: A Space Odyssey",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Arthur C. Clarke",
         "rating": "8.3",
-        "runtime": "2h 29m"
+        "runtime": "2h 29m",
+        "genre": "Adventure, Sci-Fi",
+        "country": "United Kingdom, United States",
+        "year": "1968",
+        "language": "English, Russian, French"
     },
     "97": {
-        "name": "Poor Things",
+        "title": "Poor Things",
+        "director": "Yorgos Lanthimos",
+        "writer": "Tony McNamara, Alasdair Gray",
         "rating": "8.4",
-        "runtime": "2h 21m"
+        "runtime": "2h 21m",
+        "genre": "Comedy, Drama, Romance",
+        "country": "Ireland, United Kingdom, United States",
+        "year": "2023",
+        "language": "English, French, Portuguese"
     },
     "98": {
-        "name": "Reservoir Dogs",
+        "title": "Reservoir Dogs",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino, Roger Avary",
         "rating": "8.3",
-        "runtime": "1h 39m"
+        "runtime": "1h 39m",
+        "genre": "Crime, Thriller",
+        "country": "United States",
+        "year": "1992",
+        "language": "English"
     },
     "99": {
-        "name": "Ikiru",
+        "title": "Ikiru",
+        "director": "Akira Kurosawa",
+        "writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
         "rating": "8.3",
-        "runtime": "2h 23m"
+        "runtime": "2h 23m",
+        "genre": "Drama",
+        "country": "Japan",
+        "year": "1952",
+        "language": "Japanese, Latin, English, French"
     },
     "100": {
-        "name": "Lawrence of Arabia",
+        "title": "Lawrence of Arabia",
+        "director": "David Lean",
+        "writer": "Robert Bolt, Michael Wilson",
         "rating": "8.3",
-        "runtime": "3h 38m"
+        "runtime": "3h 38m",
+        "genre": "Adventure, Biography, Drama",
+        "country": "United Kingdom",
+        "year": "1962",
+        "language": "English, Arabic, Turkish"
     },
     "101": {
-        "name": "The Apartment",
+        "title": "The Apartment",
+        "director": "Billy Wilder",
+        "writer": "Billy Wilder, I.A.L. Diamond",
         "rating": "8.3",
-        "runtime": "2h 5m"
+        "runtime": "2h 5m",
+        "genre": "Comedy, Drama, Romance",
+        "country": "United States",
+        "year": "1960",
+        "language": "English"
     },
     "102": {
-        "name": "Citizen Kane",
+        "title": "North by Northwest",
+        "director": "Alfred Hitchcock",
+        "writer": "Ernest Lehman",
         "rating": "8.3",
-        "runtime": "1h 59m"
+        "runtime": "2h 16m",
+        "genre": "Action, Adventure, Mystery",
+        "country": "United States",
+        "year": "1959",
+        "language": "English, French"
     },
     "103": {
-        "name": "North by Northwest",
+        "title": "Citizen Kane",
+        "director": "Orson Welles",
+        "writer": "Herman J. Mankiewicz, Orson Welles, John Houseman",
         "rating": "8.3",
-        "runtime": "2h 16m"
+        "runtime": "1h 59m",
+        "genre": "Drama, Mystery",
+        "country": "United States",
+        "year": "1941",
+        "language": "English, Italian"
     },
     "104": {
-        "name": "M",
+        "title": "M",
+        "director": "Fritz Lang",
+        "writer": "Thea von Harbou, Fritz Lang, Egon Jacobsohn",
         "rating": "8.3",
-        "runtime": "1h 57m"
+        "runtime": "1h 57m",
+        "genre": "Crime, Mystery, Thriller",
+        "country": "Germany",
+        "year": "1931",
+        "language": "German"
     },
     "105": {
-        "name": "Vertigo",
+        "title": "Vertigo",
+        "director": "Alfred Hitchcock",
+        "writer": "Alec Coppel, Samuel A. Taylor, Pierre Boileau",
         "rating": "8.3",
-        "runtime": "2h 8m"
+        "runtime": "2h 8m",
+        "genre": "Mystery, Romance, Thriller",
+        "country": "United States",
+        "year": "1958",
+        "language": "English"
     },
     "106": {
-        "name": "Double Indemnity",
+        "title": "Double Indemnity",
+        "director": "Billy Wilder",
+        "writer": "Billy Wilder, Raymond Chandler, James M. Cain",
         "rating": "8.3",
-        "runtime": "1h 47m"
+        "runtime": "1h 47m",
+        "genre": "Crime, Drama, Film-Noir",
+        "country": "United States",
+        "year": "1944",
+        "language": "English"
     },
     "107": {
-        "name": "Scarface",
+        "title": "Scarface",
+        "director": "Brian De Palma",
+        "writer": "Oliver Stone, Howard Hawks, Ben Hecht",
         "rating": "8.3",
-        "runtime": "2h 50m"
+        "runtime": "2h 50m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1983",
+        "language": "English, Spanish"
     },
     "108": {
-        "name": "Incendies",
+        "title": "Incendies",
+        "director": "Denis Villeneuve",
+        "writer": "Denis Villeneuve, Wajdi Mouawad, Val\u00e9rie Beaugrand-Champagne",
         "rating": "8.3",
-        "runtime": "2h 11m"
+        "runtime": "2h 11m",
+        "genre": "Drama, Mystery, War",
+        "country": "Canada, France",
+        "year": "2010",
+        "language": "French, Arabic, English"
     },
     "109": {
-        "name": "Amelie",
+        "title": "Am\u00e9lie",
+        "director": "Jean-Pierre Jeunet",
+        "writer": "Guillaume Laurant, Jean-Pierre Jeunet",
         "rating": "8.3",
-        "runtime": "2h 2m"
+        "runtime": "2h 2m",
+        "genre": "Comedy, Romance",
+        "country": "France, Germany",
+        "year": "2001",
+        "language": "French, Russian, English"
     },
     "110": {
-        "name": "Full Metal Jacket",
+        "title": "Full Metal Jacket",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Michael Herr, Gustav Hasford",
         "rating": "8.3",
-        "runtime": "1h 56m"
+        "runtime": "1h 56m",
+        "genre": "Drama, War",
+        "country": "United Kingdom, United States",
+        "year": "1987",
+        "language": "English, Vietnamese"
     },
     "111": {
-        "name": "A Clockwork Orange",
+        "title": "A Clockwork Orange",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, Anthony Burgess",
         "rating": "8.3",
-        "runtime": "2h 16m"
+        "runtime": "2h 16m",
+        "genre": "Crime, Sci-Fi",
+        "country": "United Kingdom, United States",
+        "year": "1971",
+        "language": "English"
     },
     "112": {
-        "name": "Heat",
+        "title": "Heat",
+        "director": "Michael Mann",
+        "writer": "Michael Mann",
         "rating": "8.3",
-        "runtime": "2h 50m"
+        "runtime": "2h 50m",
+        "genre": "Action, Crime, Drama",
+        "country": "United States",
+        "year": "1995",
+        "language": "English, Spanish"
     },
     "113": {
-        "name": "Up",
+        "title": "Up",
+        "director": "Pete Docter, Bob Peterson",
+        "writer": "Pete Docter, Bob Peterson, Tom McCarthy",
         "rating": "8.3",
-        "runtime": "1h 36m"
+        "runtime": "1h 36m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States, Japan",
+        "year": "2009",
+        "language": "English, Ukrainian, Russian"
     },
     "114": {
-        "name": "To Kill a Mockingbird",
+        "title": "To Kill a Mockingbird",
+        "director": "Robert Mulligan",
+        "writer": "Harper Lee, Horton Foote",
         "rating": "8.3",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1962",
+        "language": "English"
     },
     "115": {
-        "name": "The Sting",
+        "title": "The Sting",
+        "director": "George Roy Hill",
+        "writer": "David S. Ward",
         "rating": "8.3",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Comedy, Crime, Drama",
+        "country": "United States",
+        "year": "1973",
+        "language": "English"
     },
     "116": {
-        "name": "A Separation",
+        "title": "A Separation",
+        "director": "Asghar Farhadi",
+        "writer": "Asghar Farhadi",
         "rating": "8.3",
-        "runtime": "2h 3m"
+        "runtime": "2h 3m",
+        "genre": "Drama",
+        "country": "Iran, France, Australia",
+        "year": "2011",
+        "language": "Persian"
     },
     "117": {
-        "name": "Indiana Jones and the Last Crusade",
+        "title": "Indiana Jones and the Last Crusade",
+        "director": "Steven Spielberg",
+        "writer": "Jeffrey Boam, George Lucas, Menno Meyjes",
         "rating": "8.2",
-        "runtime": "2h 7m"
+        "runtime": "2h 7m",
+        "genre": "Action, Adventure",
+        "country": "United States",
+        "year": "1989",
+        "language": "English, German, Greek, Latin, Italian"
     },
     "118": {
-        "name": "Die Hard",
+        "title": "Die Hard",
+        "director": "John McTiernan",
+        "writer": "Roderick Thorp, Jeb Stuart, Steven E. de Souza",
         "rating": "8.2",
-        "runtime": "2h 12m"
+        "runtime": "2h 12m",
+        "genre": "Action, Thriller",
+        "country": "United States",
+        "year": "1988",
+        "language": "English, German, Italian, Japanese"
     },
     "119": {
-        "name": "Hamilton",
+        "title": "Metropolis",
+        "director": "Fritz Lang",
+        "writer": "Thea von Harbou, Fritz Lang",
         "rating": "8.3",
-        "runtime": "2h 40m"
+        "runtime": "2h 33m",
+        "genre": "Drama, Sci-Fi",
+        "country": "Germany",
+        "year": "1927",
+        "language": "German, English"
     },
     "120": {
-        "name": "Metropolis",
+        "title": "Hamilton",
+        "director": "Thomas Kail",
+        "writer": "Lin-Manuel Miranda, Ron Chernow",
         "rating": "8.3",
-        "runtime": "2h 33m"
+        "runtime": "2h 40m",
+        "genre": "Biography, Drama, History",
+        "country": "United States",
+        "year": "2020",
+        "language": "English"
     },
     "121": {
-        "name": "Like Stars on Earth",
+        "title": "Like Stars on Earth",
+        "director": "Aamir Khan, Amole Gupte",
+        "writer": "Amole Gupte",
         "rating": "8.3",
-        "runtime": "2h 42m"
+        "runtime": "2h 42m",
+        "genre": "Drama, Family",
+        "country": "India",
+        "year": "2007",
+        "language": "Hindi, English"
     },
     "122": {
-        "name": "Snatch",
+        "title": "Snatch",
+        "director": "Guy Ritchie",
+        "writer": "Guy Ritchie",
         "rating": "8.2",
-        "runtime": "1h 44m"
+        "runtime": "1h 44m",
+        "genre": "Comedy, Crime",
+        "country": "United Kingdom, United States",
+        "year": "2000",
+        "language": "English, Russian"
     },
     "123": {
-        "name": "L",
+        "title": "L.A. Confidential",
+        "director": "Curtis Hanson",
+        "writer": "James Ellroy, Brian Helgeland, Curtis Hanson",
         "rating": "8.2",
-        "runtime": "2h 18m"
+        "runtime": "2h 18m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "United States",
+        "year": "1997",
+        "language": "English"
     },
     "124": {
-        "name": "Bicycle Thieves",
+        "title": "Bicycle Thieves",
+        "director": "Vittorio De Sica",
+        "writer": "Cesare Zavattini, Luigi Bartolini, Oreste Biancoli",
         "rating": "8.3",
-        "runtime": "1h 29m"
+        "runtime": "1h 29m",
+        "genre": "Drama",
+        "country": "Italy",
+        "year": "1948",
+        "language": "Italian, German"
     },
     "125": {
-        "name": "1917",
+        "title": "1917",
+        "director": "Sam Mendes",
+        "writer": "Sam Mendes, Krysty Wilson-Cairns",
         "rating": "8.2",
-        "runtime": "1h 59m"
+        "runtime": "1h 59m",
+        "genre": "Action, Drama, War",
+        "country": "United Kingdom, United States, India, Spain",
+        "year": "2019",
+        "language": "English, French, German"
     },
     "126": {
-        "name": "Taxi Driver",
+        "title": "Taxi Driver",
+        "director": "Martin Scorsese",
+        "writer": "Paul Schrader",
         "rating": "8.2",
-        "runtime": "1h 54m"
+        "runtime": "1h 54m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1976",
+        "language": "English, Spanish"
     },
     "127": {
-        "name": "Downfall",
+        "title": "Downfall",
+        "director": "Oliver Hirschbiegel",
+        "writer": "Bernd Eichinger, Joachim Fest, Traudl Junge",
         "rating": "8.2",
-        "runtime": "2h 36m"
+        "runtime": "2h 36m",
+        "genre": "Biography, Drama, History",
+        "country": "Germany, Austria, Italy",
+        "year": "2004",
+        "language": "German, Russian, French, English"
     },
     "128": {
-        "name": "Dangal",
+        "title": "Dangal",
+        "director": "Nitesh Tiwari",
+        "writer": "Piyush Gupta, Shreyas Jain, Nikhil Mehrotra",
         "rating": "8.3",
-        "runtime": "2h 41m"
+        "runtime": "2h 41m",
+        "genre": "Action, Biography, Drama",
+        "country": "India, United States",
+        "year": "2016",
+        "language": "Hindi, English"
     },
     "129": {
-        "name": "For a Few Dollars More",
+        "title": "For a Few Dollars More",
+        "director": "Sergio Leone",
+        "writer": "Sergio Leone, Fulvio Morsella, Luciano Vincenzoni",
         "rating": "8.2",
-        "runtime": "2h 12m"
+        "runtime": "2h 12m",
+        "genre": "Drama, Western",
+        "country": "Italy, Spain, West Germany",
+        "year": "1965",
+        "language": "Italian, English"
     },
     "130": {
-        "name": "Batman Begins",
+        "title": "Batman Begins",
+        "director": "Christopher Nolan",
+        "writer": "Bob Kane, David S. Goyer, Christopher Nolan",
         "rating": "8.2",
-        "runtime": "2h 20m"
+        "runtime": "2h 20m",
+        "genre": "Action, Crime, Drama",
+        "country": "United States, United Kingdom",
+        "year": "2005",
+        "language": "English, Mandarin"
     },
     "131": {
-        "name": "The Wolf of Wall Street",
+        "title": "Some Like It Hot",
+        "director": "Billy Wilder",
+        "writer": "Billy Wilder, I.A.L. Diamond, Robert Thoeren",
         "rating": "8.2",
-        "runtime": "3h"
+        "runtime": "2h 1m",
+        "genre": "Comedy, Music, Romance",
+        "country": "United States",
+        "year": "1959",
+        "language": "English"
     },
     "132": {
-        "name": "Some Like It Hot",
+        "title": "The Wolf of Wall Street",
+        "director": "Martin Scorsese",
+        "writer": "Terence Winter, Jordan Belfort",
         "rating": "8.2",
-        "runtime": "2h 1m"
+        "runtime": "3h",
+        "genre": "Biography, Comedy, Crime",
+        "country": "United States",
+        "year": "2013",
+        "language": "English, French"
     },
     "133": {
-        "name": "The Kid",
+        "title": "The Kid",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
         "rating": "8.2",
-        "runtime": "1h 8m"
+        "runtime": "1h 8m",
+        "genre": "Comedy, Drama, Family",
+        "country": "United States",
+        "year": "1921",
+        "language": "English"
     },
     "134": {
-        "name": "Green Book",
+        "title": "Green Book",
+        "director": "Peter Farrelly",
+        "writer": "Nick Vallelonga, Brian Hayes Currie, Peter Farrelly",
         "rating": "8.2",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Biography, Comedy, Drama",
+        "country": "United States, China",
+        "year": "2018",
+        "language": "English, Italian, Russian, German"
     },
     "135": {
-        "name": "The Father",
+        "title": "The Father",
+        "director": "Florian Zeller",
+        "writer": "Christopher Hampton, Florian Zeller",
         "rating": "8.2",
-        "runtime": "1h 37m"
+        "runtime": "1h 37m",
+        "genre": "Drama, Mystery",
+        "country": "United Kingdom, France, United States",
+        "year": "2020",
+        "language": "English"
     },
     "136": {
-        "name": "Top Gun: Maverick",
+        "title": "Top Gun: Maverick",
+        "director": "Joseph Kosinski",
+        "writer": "Jim Cash, Jack Epps Jr., Peter Craig",
         "rating": "8.2",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Action, Drama",
+        "country": "United States",
+        "year": "2022",
+        "language": "English"
     },
     "137": {
-        "name": "Judgment at Nuremberg",
+        "title": "Judgment at Nuremberg",
+        "director": "Stanley Kramer",
+        "writer": "Abby Mann, Montgomery Clift",
         "rating": "8.3",
-        "runtime": "2h 59m"
+        "runtime": "2h 59m",
+        "genre": "Drama, War",
+        "country": "United States",
+        "year": "1961",
+        "language": "English, German"
     },
     "138": {
-        "name": "All About Eve",
+        "title": "All About Eve",
+        "director": "Joseph L. Mankiewicz",
+        "writer": "Joseph L. Mankiewicz, Mary Orr",
         "rating": "8.2",
-        "runtime": "2h 18m"
+        "runtime": "2h 18m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "1950",
+        "language": "English, French"
     },
     "139": {
-        "name": "The Truman Show",
+        "title": "The Truman Show",
+        "director": "Peter Weir",
+        "writer": "Andrew Niccol",
         "rating": "8.2",
-        "runtime": "1h 43m"
+        "runtime": "1h 43m",
+        "genre": "Comedy, Drama",
+        "country": "United States",
+        "year": "1998",
+        "language": "English"
     },
     "140": {
-        "name": "There Will Be Blood",
+        "title": "There Will Be Blood",
+        "director": "Paul Thomas Anderson",
+        "writer": "Paul Thomas Anderson, Upton Sinclair",
         "rating": "8.2",
-        "runtime": "2h 38m"
+        "runtime": "2h 38m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "2007",
+        "language": "English, American Sign "
     },
     "141": {
-        "name": "Shutter Island",
+        "title": "Shutter Island",
+        "director": "Martin Scorsese",
+        "writer": "Laeta Kalogridis, Dennis Lehane",
         "rating": "8.2",
-        "runtime": "2h 18m"
+        "runtime": "2h 18m",
+        "genre": "Mystery, Thriller",
+        "country": "United States",
+        "year": "2010",
+        "language": "English, German"
     },
     "142": {
-        "name": "Casino",
+        "title": "Casino",
+        "director": "Martin Scorsese",
+        "writer": "Nicholas Pileggi, Martin Scorsese",
         "rating": "8.2",
-        "runtime": "2h 58m"
+        "runtime": "2h 58m",
+        "genre": "Crime, Drama",
+        "country": "United States, France",
+        "year": "1995",
+        "language": "English"
     },
     "143": {
-        "name": "Ran",
+        "title": "Ran",
+        "director": "Akira Kurosawa",
+        "writer": "Akira Kurosawa, Hideo Oguni, Masato Ide",
         "rating": "8.2",
-        "runtime": "2h 40m"
+        "runtime": "2h 40m",
+        "genre": "Action, Drama, War",
+        "country": "Japan, France",
+        "year": "1985",
+        "language": "Japanese"
     },
     "144": {
-        "name": "Jurassic Park",
+        "title": "Jurassic Park",
+        "director": "Steven Spielberg",
+        "writer": "Michael Crichton, David Koepp",
         "rating": "8.2",
-        "runtime": "2h 7m"
+        "runtime": "2h 7m",
+        "genre": "Action, Adventure, Sci-Fi",
+        "country": "United States",
+        "year": "1993",
+        "language": "English, Spanish"
     },
     "145": {
-        "name": "The Sixth Sense",
+        "title": "The Sixth Sense",
+        "director": "M. Night Shyamalan",
+        "writer": "M. Night Shyamalan",
         "rating": "8.2",
-        "runtime": "1h 47m"
+        "runtime": "1h 47m",
+        "genre": "Drama, Mystery, Thriller",
+        "country": "United States",
+        "year": "1999",
+        "language": "English, Latin, Spanish"
     },
     "146": {
-        "name": "Pan's Labyrinth",
+        "title": "Pan's Labyrinth",
+        "director": "Guillermo del Toro",
+        "writer": "Guillermo del Toro",
         "rating": "8.2",
-        "runtime": "1h 58m"
+        "runtime": "1h 58m",
+        "genre": "Drama, Fantasy, War",
+        "country": "Mexico, Spain",
+        "year": "2006",
+        "language": "Spanish"
     },
     "147": {
-        "name": "Unforgiven",
+        "title": "Unforgiven",
+        "director": "Clint Eastwood",
+        "writer": "David Webb Peoples",
         "rating": "8.2",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Drama, Western",
+        "country": "United States",
+        "year": "1992",
+        "language": "English"
     },
     "148": {
-        "name": "A Beautiful Mind",
+        "title": "A Beautiful Mind",
+        "director": "Ron Howard",
+        "writer": "Akiva Goldsman, Sylvia Nasar",
         "rating": "8.2",
-        "runtime": "2h 15m"
+        "runtime": "2h 15m",
+        "genre": "Biography, Drama, Mystery",
+        "country": "United States",
+        "year": "2001",
+        "language": "English"
     },
     "149": {
-        "name": "No Country for Old Men",
+        "title": "No Country for Old Men",
+        "director": "Ethan Coen, Joel Coen",
+        "writer": "Joel Coen, Ethan Coen, Cormac McCarthy",
         "rating": "8.2",
-        "runtime": "2h 2m"
+        "runtime": "2h 2m",
+        "genre": "Crime, Drama, Thriller",
+        "country": "United States",
+        "year": "2007",
+        "language": "English, Spanish"
     },
     "150": {
-        "name": "The Thing",
+        "title": "The Thing",
+        "director": "John Carpenter",
+        "writer": "Bill Lancaster, John W. Campbell Jr.",
         "rating": "8.2",
-        "runtime": "1h 49m"
+        "runtime": "1h 49m",
+        "genre": "Horror, Mystery, Sci-Fi",
+        "country": "United States, Canada",
+        "year": "1982",
+        "language": "English, Norwegian"
     },
     "151": {
-        "name": "The Treasure of the Sierra Madre",
+        "title": "The Treasure of the Sierra Madre",
+        "director": "John Huston",
+        "writer": "John Huston, B. Traven",
         "rating": "8.2",
-        "runtime": "2h 6m"
+        "runtime": "2h 6m",
+        "genre": "Adventure, Drama, Western",
+        "country": "United States",
+        "year": "1948",
+        "language": "English, Spanish"
     },
     "152": {
-        "name": "Yojimbo",
+        "title": "Yojimbo",
+        "director": "Akira Kurosawa",
+        "writer": "Akira Kurosawa, Ry\u00fbz\u00f4 Kikushima",
         "rating": "8.2",
-        "runtime": "1h 50m"
+        "runtime": "1h 50m",
+        "genre": "Action, Drama, Thriller",
+        "country": "Japan",
+        "year": "1961",
+        "language": "Japanese"
     },
     "153": {
-        "name": "Kill Bill: Vol",
+        "title": "Kill Bill: Vol. 1",
+        "director": "Quentin Tarantino",
+        "writer": "Quentin Tarantino, Uma Thurman",
         "rating": "8.2",
-        "runtime": "1h 51m"
+        "runtime": "1h 51m",
+        "genre": "Action, Crime, Thriller",
+        "country": "United States",
+        "year": "2003",
+        "language": "English, Japanese, French"
     },
     "154": {
-        "name": "Monty Python and the Holy Grail",
+        "title": "Monty Python and the Holy Grail",
+        "director": "Terry Gilliam, Terry Jones",
+        "writer": "Graham Chapman, John Cleese, Eric Idle",
         "rating": "8.2",
-        "runtime": "1h 31m"
+        "runtime": "1h 31m",
+        "genre": "Adventure, Comedy, Fantasy",
+        "country": "United Kingdom",
+        "year": "1975",
+        "language": "English, French, Latin, Swedish"
     },
     "155": {
-        "name": "The Great Escape",
+        "title": "The Great Escape",
+        "director": "John Sturges",
+        "writer": "Paul Brickhill, James Clavell, W.R. Burnett",
         "rating": "8.2",
-        "runtime": "2h 52m"
+        "runtime": "2h 52m",
+        "genre": "Adventure, Drama, History",
+        "country": "United States",
+        "year": "1963",
+        "language": "English, German, French, Russian, Spanish"
     },
     "156": {
-        "name": "Finding Nemo",
+        "title": "Finding Nemo",
+        "director": "Andrew Stanton, Lee Unkrich",
+        "writer": "Andrew Stanton, Bob Peterson, David Reynolds",
         "rating": "8.2",
-        "runtime": "1h 40m"
+        "runtime": "1h 40m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States, Japan",
+        "year": "2003",
+        "language": "English, Japanese, Russian"
     },
     "157": {
-        "name": "Rashomon",
+        "title": "Rashomon",
+        "director": "Akira Kurosawa",
+        "writer": "Ry\u00fbnosuke Akutagawa, Akira Kurosawa, Shinobu Hashimoto",
         "rating": "8.2",
-        "runtime": "1h 28m"
+        "runtime": "1h 28m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "Japan",
+        "year": "1950",
+        "language": "Japanese"
     },
     "158": {
-        "name": "The Elephant Man",
+        "title": "The Elephant Man",
+        "director": "David Lynch",
+        "writer": "Christopher De Vore, Eric Bergren, David Lynch",
         "rating": "8.2",
-        "runtime": "2h 4m"
+        "runtime": "2h 4m",
+        "genre": "Biography, Drama",
+        "country": "United States, United Kingdom",
+        "year": "1980",
+        "language": "English, French"
     },
     "159": {
-        "name": "Howl's Moving Castle",
+        "title": "Howl's Moving Castle",
+        "director": "Hayao Miyazaki",
+        "writer": "Hayao Miyazaki, Diana Wynne Jones",
         "rating": "8.2",
-        "runtime": "1h 59m"
+        "runtime": "1h 59m",
+        "genre": "Animation, Adventure, Family",
+        "country": "Japan",
+        "year": "2004",
+        "language": "Japanese"
     },
     "160": {
-        "name": "Prisoners",
+        "title": "Prisoners",
+        "director": "Denis Villeneuve",
+        "writer": "Aaron Guzikowski",
         "rating": "8.1",
-        "runtime": "2h 33m"
+        "runtime": "2h 33m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "United States",
+        "year": "2013",
+        "language": "English"
     },
     "161": {
-        "name": "Chinatown",
+        "title": "Chinatown",
+        "director": "Roman Polanski",
+        "writer": "Robert Towne, Roman Polanski",
         "rating": "8.1",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Drama, Mystery, Thriller",
+        "country": "United States",
+        "year": "1974",
+        "language": "English, Cantonese, Spanish"
     },
     "162": {
-        "name": "Dial M for Murder",
+        "title": "Dial M for Murder",
+        "director": "Alfred Hitchcock",
+        "writer": "Frederick Knott",
         "rating": "8.2",
-        "runtime": "1h 45m"
+        "runtime": "1h 45m",
+        "genre": "Crime, Thriller",
+        "country": "United States",
+        "year": "1954",
+        "language": "English"
     },
     "163": {
-        "name": "Gone with the Wind",
+        "title": "Gone with the Wind",
+        "director": "Victor Fleming, George Cukor, Sam Wood",
+        "writer": "Margaret Mitchell, Sidney Howard, Oliver H.P. Garrett",
         "rating": "8.2",
-        "runtime": "3h 58m"
+        "runtime": "3h 58m",
+        "genre": "Drama, Romance, War",
+        "country": "United States",
+        "year": "1939",
+        "language": "English"
     },
     "164": {
-        "name": "V for Vendetta",
+        "title": "V for Vendetta",
+        "director": "James McTeigue",
+        "writer": "Lilly Wachowski, Lana Wachowski, David Lloyd",
         "rating": "8.2",
-        "runtime": "2h 12m"
+        "runtime": "2h 12m",
+        "genre": "Action, Drama, Sci-Fi",
+        "country": "United States, United Kingdom, Germany",
+        "year": "2005",
+        "language": "English, French, Latin, Spanish"
     },
     "165": {
-        "name": "Lock, Stock and Two Smoking Barrels",
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "director": "Guy Ritchie",
+        "writer": "Guy Ritchie",
         "rating": "8.1",
-        "runtime": "1h 47m"
+        "runtime": "1h 47m",
+        "genre": "Action, Comedy, Crime",
+        "country": "United Kingdom",
+        "year": "1998",
+        "language": "English"
     },
     "166": {
-        "name": "The Secret in Their Eyes",
+        "title": "The Secret in Their Eyes",
+        "director": "Juan Jos\u00e9 Campanella",
+        "writer": "Eduardo Sacheri, Juan Jos\u00e9 Campanella",
         "rating": "8.2",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Drama, Mystery, Romance",
+        "country": "Argentina, Spain",
+        "year": "2009",
+        "language": "Spanish"
     },
     "167": {
-        "name": "Raging Bull",
+        "title": "Raging Bull",
+        "director": "Martin Scorsese",
+        "writer": "Jake LaMotta, Joseph Carter, Peter Savage",
         "rating": "8.1",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Biography, Drama, Sport",
+        "country": "United States",
+        "year": "1980",
+        "language": "English"
     },
     "168": {
-        "name": "Inside Out",
+        "title": "Inside Out",
+        "director": "Pete Docter, Ronnie Del Carmen",
+        "writer": "Pete Docter, Ronnie Del Carmen, Meg LeFauve",
         "rating": "8.1",
-        "runtime": "1h 35m"
+        "runtime": "1h 35m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States, Japan",
+        "year": "2015",
+        "language": "English, Portuguese, Latvian, Russian, Ukrainian"
     },
     "169": {
-        "name": "Three Billboards Outside Ebbing, Missouri",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "director": "Martin McDonagh",
+        "writer": "Martin McDonagh",
         "rating": "8.1",
-        "runtime": "1h 55m"
+        "runtime": "1h 55m",
+        "genre": "Comedy, Crime, Drama",
+        "country": "United Kingdom, United States",
+        "year": "2017",
+        "language": "English"
     },
     "170": {
-        "name": "Trainspotting",
+        "title": "Trainspotting",
+        "director": "Danny Boyle",
+        "writer": "Irvine Welsh, John Hodge",
         "rating": "8.1",
-        "runtime": "1h 33m"
+        "runtime": "1h 33m",
+        "genre": "Drama",
+        "country": "United Kingdom, United States",
+        "year": "1996",
+        "language": "English"
     },
     "171": {
-        "name": "The Bridge on the River Kwai",
+        "title": "The Bridge on the River Kwai",
+        "director": "David Lean",
+        "writer": "Pierre Boulle, Carl Foreman, Michael Wilson",
         "rating": "8.1",
-        "runtime": "2h 41m"
+        "runtime": "2h 41m",
+        "genre": "Adventure, Drama, War",
+        "country": "United Kingdom, United States",
+        "year": "1957",
+        "language": "English, Japanese, Thai"
     },
     "172": {
-        "name": "Spider-Man: No Way Home",
+        "title": "Spider-Man: No Way Home",
+        "director": "Jon Watts",
+        "writer": "Chris McKenna, Erik Sommers, Stan Lee",
         "rating": "8.2",
-        "runtime": "2h 28m"
+        "runtime": "2h 28m",
+        "genre": "Action, Adventure, Fantasy",
+        "country": "United States",
+        "year": "2021",
+        "language": "English"
     },
     "173": {
-        "name": "Fargo",
+        "title": "Fargo",
+        "director": "Joel Coen, Ethan Coen",
+        "writer": "Ethan Coen, Joel Coen",
         "rating": "8.1",
-        "runtime": "1h 38m"
+        "runtime": "1h 38m",
+        "genre": "Crime, Thriller",
+        "country": "United States, United Kingdom",
+        "year": "1996",
+        "language": "English"
     },
     "174": {
-        "name": "Warrior",
+        "title": "Warrior",
+        "director": "Gavin O'Connor",
+        "writer": "Gavin O'Connor, Anthony Tambakis, Cliff Dorfman",
         "rating": "8.1",
-        "runtime": "2h 20m"
+        "runtime": "2h 20m",
+        "genre": "Action, Drama, Sport",
+        "country": "United States",
+        "year": "2011",
+        "language": "English, Spanish"
     },
     "175": {
-        "name": "Klaus",
+        "title": "Klaus",
+        "director": "Sergio Pablos, Carlos Mart\u00ednez L\u00f3pez",
+        "writer": "Sergio Pablos, Jim Mahoney, Zach Lewis",
         "rating": "8.2",
-        "runtime": "1h 36m"
+        "runtime": "1h 36m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "Spain, United Kingdom, United States",
+        "year": "2019",
+        "language": "English, Saami"
     },
     "176": {
-        "name": "Catch Me If You Can",
+        "title": "Catch Me If You Can",
+        "director": "Steven Spielberg",
+        "writer": "Frank Abagnale Jr., Stan Redding, Jeff Nathanson",
         "rating": "8.1",
-        "runtime": "2h 21m"
+        "runtime": "2h 21m",
+        "genre": "Biography, Crime, Drama",
+        "country": "United States, Canada",
+        "year": "2002",
+        "language": "English, French"
     },
     "177": {
-        "name": "Godzilla Minus One",
+        "title": "Godzilla Minus One",
+        "director": "Takashi Yamazaki",
+        "writer": "Ishir\u00f4 Honda, Takeo Murata, Takashi Yamazaki",
         "rating": "8.3",
-        "runtime": "2h 4m"
+        "runtime": "2h 4m",
+        "genre": "Action, Adventure, Drama",
+        "country": "Japan",
+        "year": "2023",
+        "language": "Japanese"
     },
     "178": {
-        "name": "Gran Torino",
+        "title": "Gran Torino",
+        "director": "Clint Eastwood",
+        "writer": "Nick Schenk, Dave Johannson",
         "rating": "8.1",
-        "runtime": "1h 56m"
+        "runtime": "1h 56m",
+        "genre": "Drama",
+        "country": "Germany, United States",
+        "year": "2008",
+        "language": "English, Hmong"
     },
     "179": {
-        "name": "My Neighbor Totoro",
+        "title": "My Neighbor Totoro",
+        "director": "Hayao Miyazaki",
+        "writer": "Hayao Miyazaki",
         "rating": "8.1",
-        "runtime": "1h 26m"
+        "runtime": "1h 26m",
+        "genre": "Animation, Comedy, Family",
+        "country": "Japan",
+        "year": "1988",
+        "language": "Japanese"
     },
     "180": {
-        "name": "Million Dollar Baby",
+        "title": "Million Dollar Baby",
+        "director": "Clint Eastwood",
+        "writer": "Paul Haggis, F.X. Toole",
         "rating": "8.1",
-        "runtime": "2h 12m"
+        "runtime": "2h 12m",
+        "genre": "Drama, Sport",
+        "country": "United States",
+        "year": "2004",
+        "language": "English, Irish Gaelic"
     },
     "181": {
-        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "director": "David Yates",
+        "writer": "Steve Kloves, J.K. Rowling",
         "rating": "8.1",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Adventure, Family, Fantasy",
+        "country": "United Kingdom, United States",
+        "year": "2011",
+        "language": "English, Latin"
     },
     "182": {
-        "name": "Children of Heaven",
+        "title": "Children of Heaven",
+        "director": "Majid Majidi",
+        "writer": "Majid Majidi",
         "rating": "8.2",
-        "runtime": "1h 29m"
+        "runtime": "1h 29m",
+        "genre": "Drama, Family, Sport",
+        "country": "Iran",
+        "year": "1997",
+        "language": "Persian"
     },
     "183": {
-        "name": "12 Years a Slave",
+        "title": "12 Years a Slave",
+        "director": "Steve McQueen",
+        "writer": "John Ridley, Solomon Northup",
         "rating": "8.1",
-        "runtime": "2h 14m"
+        "runtime": "2h 14m",
+        "genre": "Biography, Drama, History",
+        "country": "United Kingdom, United States",
+        "year": "2013",
+        "language": "English"
     },
     "184": {
-        "name": "Blade Runner",
+        "title": "Blade Runner",
+        "director": "Ridley Scott",
+        "writer": "Hampton Fancher, David Webb Peoples, Philip K. Dick",
         "rating": "8.1",
-        "runtime": "1h 57m"
+        "runtime": "1h 57m",
+        "genre": "Action, Drama, Sci-Fi",
+        "country": "United States, United Kingdom",
+        "year": "1982",
+        "language": "English, German, Cantonese, Japanese, Hungarian, Arabic, Korean"
     },
     "185": {
-        "name": "Before Sunrise",
+        "title": "Before Sunrise",
+        "director": "Richard Linklater",
+        "writer": "Richard Linklater, Kim Krizan",
         "rating": "8.1",
-        "runtime": "1h 41m"
+        "runtime": "1h 41m",
+        "genre": "Drama, Romance",
+        "country": "United States, Austria",
+        "year": "1995",
+        "language": "English, German, French"
     },
     "186": {
-        "name": "The Grand Budapest Hotel",
+        "title": "The Grand Budapest Hotel",
+        "director": "Wes Anderson",
+        "writer": "Stefan Zweig, Wes Anderson, Hugo Guinness",
         "rating": "8.1",
-        "runtime": "1h 39m"
+        "runtime": "1h 39m",
+        "genre": "Adventure, Comedy, Crime",
+        "country": "United Kingdom, Germany, United States",
+        "year": "2014",
+        "language": "English, French, German"
     },
     "187": {
-        "name": "Ben-Hur",
+        "title": "Ben-Hur",
+        "director": "William Wyler",
+        "writer": "Lew Wallace, Karl Tunberg, Gore Vidal",
         "rating": "8.1",
-        "runtime": "3h 32m"
+        "runtime": "3h 32m",
+        "genre": "Adventure, Drama",
+        "country": "United States",
+        "year": "1959",
+        "language": "English"
     },
     "188": {
-        "name": "Barry Lyndon",
+        "title": "Barry Lyndon",
+        "director": "Stanley Kubrick",
+        "writer": "Stanley Kubrick, William Makepeace Thackeray",
         "rating": "8.1",
-        "runtime": "3h 5m"
+        "runtime": "3h 5m",
+        "genre": "Adventure, Drama, War",
+        "country": "United Kingdom, United States",
+        "year": "1975",
+        "language": "English, German, French"
     },
     "189": {
-        "name": "Gone Girl",
+        "title": "Gone Girl",
+        "director": "David Fincher",
+        "writer": "Gillian Flynn",
         "rating": "8.1",
-        "runtime": "2h 29m"
+        "runtime": "2h 29m",
+        "genre": "Drama, Mystery, Thriller",
+        "country": "United States",
+        "year": "2014",
+        "language": "English"
     },
     "190": {
-        "name": "The Gold Rush",
+        "title": "The Gold Rush",
+        "director": "Charles Chaplin",
+        "writer": "Charles Chaplin",
         "rating": "8.1",
-        "runtime": "1h 35m"
+        "runtime": "1h 35m",
+        "genre": "Adventure, Comedy, Drama",
+        "country": "United States",
+        "year": "1925",
+        "language": "None, English"
     },
     "191": {
-        "name": "Hacksaw Ridge",
+        "title": "Hacksaw Ridge",
+        "director": "Mel Gibson",
+        "writer": "Robert Schenkkan, Andrew Knight",
         "rating": "8.1",
-        "runtime": "2h 19m"
+        "runtime": "2h 19m",
+        "genre": "Biography, Drama, History",
+        "country": "Australia, United States, United Kingdom, China",
+        "year": "2016",
+        "language": "English, Japanese"
     },
     "192": {
-        "name": "In the Name of the Father",
+        "title": "In the Name of the Father",
+        "director": "Jim Sheridan",
+        "writer": "Gerry Conlon, Terry George, Jim Sheridan",
         "rating": "8.1",
-        "runtime": "2h 13m"
+        "runtime": "2h 13m",
+        "genre": "Biography, Crime, Drama",
+        "country": "Ireland, United Kingdom",
+        "year": "1993",
+        "language": "English"
     },
     "193": {
-        "name": "Memories of Murder",
+        "title": "Memories of Murder",
+        "director": "Bong Joon Ho",
+        "writer": "Bong Joon Ho, Kwang-rim Kim, Sung-bo Shim",
         "rating": "8.1",
-        "runtime": "2h 11m"
+        "runtime": "2h 11m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "South Korea",
+        "year": "2003",
+        "language": "Korean, English"
     },
     "194": {
-        "name": "On the Waterfront",
+        "title": "On the Waterfront",
+        "director": "Elia Kazan",
+        "writer": "Budd Schulberg, Malcolm Johnson, Robert Siodmak",
         "rating": "8.1",
-        "runtime": "1h 48m"
+        "runtime": "1h 48m",
+        "genre": "Crime, Drama, Thriller",
+        "country": "United States",
+        "year": "1954",
+        "language": "English, Latin"
     },
     "195": {
-        "name": "Dead Poets Society",
+        "title": "Dead Poets Society",
+        "director": "Peter Weir",
+        "writer": "Tom Schulman",
         "rating": "8.1",
-        "runtime": "2h 8m"
+        "runtime": "2h 8m",
+        "genre": "Comedy, Drama",
+        "country": "United States",
+        "year": "1989",
+        "language": "English, Latin"
     },
     "196": {
-        "name": "The General",
+        "title": "The General",
+        "director": "Clyde Bruckman, Buster Keaton",
+        "writer": "Buster Keaton, Clyde Bruckman, Al Boasberg",
         "rating": "8.1",
-        "runtime": "1h 47m"
+        "runtime": "1h 47m",
+        "genre": "Action, Adventure, Comedy",
+        "country": "United States",
+        "year": "1926",
+        "language": "None"
     },
     "197": {
-        "name": "The Deer Hunter",
+        "title": "The Deer Hunter",
+        "director": "Michael Cimino",
+        "writer": "Michael Cimino, Deric Washburn, Louis Garfinkle",
         "rating": "8.1",
-        "runtime": "3h 3m"
+        "runtime": "3h 3m",
+        "genre": "Drama, War",
+        "country": "United States, United Kingdom",
+        "year": "1978",
+        "language": "English, Vietnamese, French, Russian, Cantonese"
     },
     "198": {
-        "name": "Wild Tales",
+        "title": "Wild Tales",
+        "director": "Dami\u00e1n Szifron",
+        "writer": "Julian Loyola, Dami\u00e1n Szifron, Germ\u00e1n Servidio",
         "rating": "8.1",
-        "runtime": "2h 2m"
+        "runtime": "2h 2m",
+        "genre": "Comedy, Drama, Thriller",
+        "country": "Argentina, Spain, France, United Kingdom",
+        "year": "2014",
+        "language": "Spanish"
     },
     "199": {
-        "name": "Mad Max: Fury Road",
+        "title": "Mad Max: Fury Road",
+        "director": "George Miller",
+        "writer": "George Miller, Brendan McCarthy, Nick Lathouris",
         "rating": "8.1",
-        "runtime": "2h"
+        "runtime": "2h",
+        "genre": "Action, Adventure, Sci-Fi",
+        "country": "Australia",
+        "year": "2015",
+        "language": "English, Russian"
     },
     "200": {
-        "name": "Sherlock Jr",
+        "title": "Sherlock Jr.",
+        "director": "Buster Keaton",
+        "writer": "Jean C. Havez, Joseph A. Mitchell, Clyde Bruckman",
         "rating": "8.2",
-        "runtime": "45m"
+        "runtime": "45m",
+        "genre": "Action, Comedy, Romance",
+        "country": "United States",
+        "year": "1924",
+        "language": "None, English"
     },
     "201": {
-        "name": "Monsters, Inc",
+        "title": "Monsters, Inc.",
+        "director": "Pete Docter, David Silverman, Lee Unkrich",
+        "writer": "Pete Docter, Jill Culton, Jeff Pidgeon",
         "rating": "8.1",
-        "runtime": "1h 32m"
+        "runtime": "1h 32m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States",
+        "year": "2001",
+        "language": "English"
     },
     "202": {
-        "name": "The Third Man",
+        "title": "The Third Man",
+        "director": "Carol Reed",
+        "writer": "Graham Greene, Orson Welles, Alexander Korda",
         "rating": "8.1",
-        "runtime": "1h 44m"
+        "runtime": "1h 44m",
+        "genre": "Film-Noir, Mystery, Thriller",
+        "country": "United Kingdom",
+        "year": "1949",
+        "language": "English, German, Russian, French"
     },
     "203": {
-        "name": "Wild Strawberries",
+        "title": "Wild Strawberries",
+        "director": "Ingmar Bergman",
+        "writer": "Ingmar Bergman",
         "rating": "8.1",
-        "runtime": "1h 31m"
+        "runtime": "1h 31m",
+        "genre": "Drama, Romance",
+        "country": "Sweden",
+        "year": "1957",
+        "language": "Swedish, Latin"
     },
     "204": {
-        "name": "The Wages of Fear",
+        "title": "The Wages of Fear",
+        "director": "Henri-Georges Clouzot",
+        "writer": "Georges Arnaud, Henri-Georges Clouzot, J\u00e9r\u00f4me G\u00e9ronimi",
         "rating": "8.2",
-        "runtime": "2h 11m"
+        "runtime": "2h 11m",
+        "genre": "Adventure, Drama, Thriller",
+        "country": "France, Italy",
+        "year": "1953",
+        "language": "French, English, Spanish, German, Italian, Russian"
     },
     "205": {
-        "name": "Jaws",
+        "title": "Jaws",
+        "director": "Steven Spielberg",
+        "writer": "Peter Benchley, Carl Gottlieb",
         "rating": "8.1",
-        "runtime": "2h 4m"
+        "runtime": "2h 4m",
+        "genre": "Adventure, Mystery, Thriller",
+        "country": "United States",
+        "year": "1975",
+        "language": "English"
     },
     "206": {
-        "name": "How to Train Your Dragon",
+        "title": "How to Train Your Dragon",
+        "director": "Dean DeBlois, Chris Sanders",
+        "writer": "William Davies, Dean DeBlois, Chris Sanders",
         "rating": "8.1",
-        "runtime": "1h 38m"
+        "runtime": "1h 38m",
+        "genre": "Animation, Action, Adventure",
+        "country": "United States, France",
+        "year": "2010",
+        "language": "English"
     },
     "207": {
-        "name": "Mary and Max",
+        "title": "Mary and Max",
+        "director": "Adam Elliot",
+        "writer": "Adam Elliot",
         "rating": "8.1",
-        "runtime": "1h 32m"
+        "runtime": "1h 32m",
+        "genre": "Animation, Comedy, Drama",
+        "country": "Australia",
+        "year": "2009",
+        "language": "English, Yiddish"
     },
     "208": {
-        "name": "Mr",
+        "title": "Mr. Smith Goes to Washington",
+        "director": "Frank Capra",
+        "writer": "Sidney Buchman, Lewis R. Foster, Myles Connolly",
         "rating": "8.1",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Comedy, Drama",
+        "country": "United States",
+        "year": "1939",
+        "language": "English"
     },
     "209": {
-        "name": "Ford v Ferrari",
+        "title": "Ford v Ferrari",
+        "director": "James Mangold",
+        "writer": "Jez Butterworth, John-Henry Butterworth, Jason Keller",
         "rating": "8.1",
-        "runtime": "2h 32m"
+        "runtime": "2h 32m",
+        "genre": "Action, Biography, Drama",
+        "country": "United States",
+        "year": "2019",
+        "language": "English, Italian, French, Japanese"
     },
     "210": {
-        "name": "Ratatouille",
+        "title": "Ratatouille",
+        "director": "Brad Bird, Jan Pinkava",
+        "writer": "Brad Bird, Jan Pinkava, Jim Capobianco",
         "rating": "8.1",
-        "runtime": "1h 51m"
+        "runtime": "1h 51m",
+        "genre": "Animation, Adventure, Comedy",
+        "country": "United States",
+        "year": "2007",
+        "language": "English, Russian, French"
     },
     "211": {
-        "name": "The Seventh Seal",
+        "title": "The Seventh Seal",
+        "director": "Ingmar Bergman",
+        "writer": "Ingmar Bergman",
         "rating": "8.1",
-        "runtime": "1h 36m"
+        "runtime": "1h 36m",
+        "genre": "Drama, Fantasy",
+        "country": "Sweden",
+        "year": "1957",
+        "language": "Swedish, Latin"
     },
     "212": {
-        "name": "Room",
+        "title": "Room",
+        "director": "Lenny Abrahamson",
+        "writer": "Emma Donoghue",
         "rating": "8.1",
-        "runtime": "1h 58m"
+        "runtime": "1h 58m",
+        "genre": "Drama, Thriller",
+        "country": "Ireland, Canada, United Kingdom, United States",
+        "year": "2015",
+        "language": "English"
     },
     "213": {
-        "name": "The Big Lebowski",
+        "title": "The Big Lebowski",
+        "director": "Joel Coen, Ethan Coen",
+        "writer": "Ethan Coen, Joel Coen",
         "rating": "8.1",
-        "runtime": "1h 57m"
+        "runtime": "1h 57m",
+        "genre": "Comedy, Crime",
+        "country": "United States, United Kingdom",
+        "year": "1998",
+        "language": "English, German, Hebrew, Spanish"
     },
     "214": {
-        "name": "Tokyo Story",
+        "title": "Tokyo Story",
+        "director": "Yasujir\u00f4 Ozu",
+        "writer": "K\u00f4go Noda, Yasujir\u00f4 Ozu",
         "rating": "8.1",
-        "runtime": "2h 16m"
+        "runtime": "2h 16m",
+        "genre": "Drama",
+        "country": "Japan",
+        "year": "1953",
+        "language": "Japanese, English"
     },
     "215": {
-        "name": "Rocky",
+        "title": "Rocky",
+        "director": "John G. Avildsen",
+        "writer": "Sylvester Stallone",
         "rating": "8.1",
-        "runtime": "2h"
+        "runtime": "2h",
+        "genre": "Drama, Sport",
+        "country": "United States",
+        "year": "1976",
+        "language": "English"
     },
     "216": {
-        "name": "Logan",
+        "title": "Logan",
+        "director": "James Mangold",
+        "writer": "James Mangold, Scott Frank, Michael Green",
         "rating": "8.1",
-        "runtime": "2h 17m"
+        "runtime": "2h 17m",
+        "genre": "Action, Drama, Sci-Fi",
+        "country": "United States",
+        "year": "2017",
+        "language": "English, Spanish"
     },
     "217": {
-        "name": "Spotlight",
+        "title": "Spotlight",
+        "director": "Tom McCarthy",
+        "writer": "Josh Singer, Tom McCarthy",
         "rating": "8.1",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Biography, Crime, Drama",
+        "country": "United States",
+        "year": "2015",
+        "language": "English"
     },
     "218": {
-        "name": "Hotel Rwanda",
+        "title": "Hotel Rwanda",
+        "director": "Terry George",
+        "writer": "Keir Pearson, Terry George",
         "rating": "8.1",
-        "runtime": "2h 1m"
+        "runtime": "2h 1m",
+        "genre": "Biography, Drama, History",
+        "country": "United Kingdom, South Africa, Italy, United States",
+        "year": "2004",
+        "language": "English, French, Kinyarwanda"
     },
     "219": {
-        "name": "Platoon",
+        "title": "Platoon",
+        "director": "Oliver Stone",
+        "writer": "Oliver Stone",
         "rating": "8.1",
-        "runtime": "2h"
+        "runtime": "2h",
+        "genre": "Drama, War",
+        "country": "United States, United Kingdom",
+        "year": "1986",
+        "language": "English, Vietnamese"
     },
     "220": {
-        "name": "The Terminator",
+        "title": "The Terminator",
+        "director": "James Cameron",
+        "writer": "James Cameron, Gale Anne Hurd, William Wisher",
         "rating": "8.1",
-        "runtime": "1h 47m"
+        "runtime": "1h 47m",
+        "genre": "Action, Sci-Fi",
+        "country": "United Kingdom, United States",
+        "year": "1984",
+        "language": "English, Spanish"
     },
     "221": {
-        "name": "The Passion of Joan of Arc",
+        "title": "The Passion of Joan of Arc",
+        "director": "Carl Theodor Dreyer",
+        "writer": "Joseph Delteil, Carl Theodor Dreyer",
         "rating": "8.1",
-        "runtime": "1h 50m"
+        "runtime": "1h 50m",
+        "genre": "Biography, Drama, History",
+        "country": "France",
+        "year": "1928",
+        "language": "None, French"
     },
     "222": {
-        "name": "Jai Bhim",
+        "title": "Jai Bhim",
+        "director": "T.J. Gnanavel",
+        "writer": "T.J. Gnanavel, Rajendra Sapre",
         "rating": "8.7",
-        "runtime": "2h 44m"
+        "runtime": "2h 44m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "India, United States",
+        "year": "2021",
+        "language": "Tamil"
     },
     "223": {
-        "name": "Before Sunset",
+        "title": "Before Sunset",
+        "director": "Richard Linklater",
+        "writer": "Richard Linklater, Julie Delpy, Ethan Hawke",
         "rating": "8.1",
-        "runtime": "1h 20m"
+        "runtime": "1h 20m",
+        "genre": "Drama, Romance",
+        "country": "France, United States",
+        "year": "2004",
+        "language": "English, French"
     },
     "224": {
-        "name": "The Best Years of Our Lives",
+        "title": "The Best Years of Our Lives",
+        "director": "William Wyler",
+        "writer": "Robert E. Sherwood, MacKinlay Kantor",
         "rating": "8.1",
-        "runtime": "2h 50m"
+        "runtime": "2h 50m",
+        "genre": "Drama, Romance, War",
+        "country": "United States",
+        "year": "1946",
+        "language": "English"
     },
     "225": {
-        "name": "La haine",
+        "title": "La haine",
+        "director": "Mathieu Kassovitz",
+        "writer": "Mathieu Kassovitz",
         "rating": "8.1",
-        "runtime": "1h 38m"
+        "runtime": "1h 38m",
+        "genre": "Crime, Drama",
+        "country": "France",
+        "year": "1995",
+        "language": "French"
     },
     "226": {
-        "name": "The Exorcist",
+        "title": "The Exorcist",
+        "director": "William Friedkin",
+        "writer": "William Peter Blatty",
         "rating": "8.1",
-        "runtime": "2h 2m"
+        "runtime": "2h 2m",
+        "genre": "Horror",
+        "country": "United States",
+        "year": "1973",
+        "language": "English, Latin, Greek, French, German, Arabic, Kurdish"
     },
     "227": {
-        "name": "Rush",
+        "title": "Rush",
+        "director": "Ron Howard",
+        "writer": "Peter Morgan",
         "rating": "8.1",
-        "runtime": "2h 3m"
+        "runtime": "2h 3m",
+        "genre": "Action, Biography, Drama",
+        "country": "United Kingdom, United States",
+        "year": "2013",
+        "language": "English, German, Italian, French, Spanish"
     },
     "228": {
-        "name": "Network",
+        "title": "Network",
+        "director": "Sidney Lumet",
+        "writer": "Paddy Chayefsky",
         "rating": "8.1",
-        "runtime": "2h 1m"
+        "runtime": "2h 1m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "1976",
+        "language": "English"
     },
     "229": {
-        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "director": "Gore Verbinski",
+        "writer": "Ted Elliott, Terry Rossio, Stuart Beattie",
         "rating": "8.1",
-        "runtime": "2h 23m"
+        "runtime": "2h 23m",
+        "genre": "Action, Adventure, Fantasy",
+        "country": "United States",
+        "year": "2003",
+        "language": "English"
     },
     "230": {
-        "name": "Stand by Me",
+        "title": "Stand by Me",
+        "director": "Rob Reiner",
+        "writer": "Stephen King, Raynold Gideon, Bruce A. Evans",
         "rating": "8.1",
-        "runtime": "1h 29m"
+        "runtime": "1h 29m",
+        "genre": "Adventure, Comedy, Drama",
+        "country": "United States",
+        "year": "1986",
+        "language": "English"
     },
     "231": {
-        "name": "The Wizard of Oz",
+        "title": "The Wizard of Oz",
+        "director": "Victor Fleming, King Vidor",
+        "writer": "Noel Langley, Florence Ryerson, Edgar Allan Woolf",
         "rating": "8.1",
-        "runtime": "1h 42m"
+        "runtime": "1h 42m",
+        "genre": "Adventure, Family, Fantasy",
+        "country": "United States",
+        "year": "1939",
+        "language": "English"
     },
     "232": {
-        "name": "The Incredibles",
+        "title": "The Incredibles",
+        "director": "Brad Bird",
+        "writer": "Brad Bird",
         "rating": "8.0",
-        "runtime": "1h 55m"
+        "runtime": "1h 55m",
+        "genre": "Animation, Action, Adventure",
+        "country": "United States, Japan",
+        "year": "2004",
+        "language": "English, French, German, Italian, Portuguese, Russian"
     },
     "233": {
-        "name": "Into the Wild",
+        "title": "Into the Wild",
+        "director": "Sean Penn",
+        "writer": "Sean Penn, Jon Krakauer",
         "rating": "8.1",
-        "runtime": "2h 28m"
+        "runtime": "2h 28m",
+        "genre": "Adventure, Biography, Drama",
+        "country": "United States",
+        "year": "2007",
+        "language": "English, Danish"
     },
     "234": {
-        "name": "Hachi: A Dog's Tale",
+        "title": "Hachi: A Dog's Tale",
+        "director": "Lasse Hallstr\u00f6m",
+        "writer": "Stephen P. Lindsey, Kaneto Shind\u00f4",
         "rating": "8.1",
-        "runtime": "1h 33m"
+        "runtime": "1h 33m",
+        "genre": "Biography, Drama, Family",
+        "country": "United Kingdom, United States",
+        "year": "2009",
+        "language": "English, Japanese"
     },
     "235": {
-        "name": "The Handmaiden",
+        "title": "The Handmaiden",
+        "director": "Park Chan-wook",
+        "writer": "Sarah Waters, Chung Seo-kyung, Park Chan-wook",
         "rating": "8.1",
-        "runtime": "2h 25m"
+        "runtime": "2h 25m",
+        "genre": "Drama, Romance, Thriller",
+        "country": "South Korea",
+        "year": "2016",
+        "language": "Korean, Japanese"
     },
     "236": {
-        "name": "My Father and My Son",
+        "title": "My Father and My Son",
+        "director": "\u00c7agan Irmak",
+        "writer": "\u00c7agan Irmak",
         "rating": "8.2",
-        "runtime": "1h 52m"
+        "runtime": "1h 52m",
+        "genre": "Drama, Family",
+        "country": "Turkey",
+        "year": "2005",
+        "language": "Turkish"
     },
     "237": {
-        "name": "To Be or Not to Be",
+        "title": "To Be or Not to Be",
+        "director": "Ernst Lubitsch",
+        "writer": "Melchior Lengyel, Edwin Justus Mayer, Ernst Lubitsch",
         "rating": "8.1",
-        "runtime": "1h 39m"
+        "runtime": "1h 39m",
+        "genre": "Comedy, Romance, War",
+        "country": "United States",
+        "year": "1942",
+        "language": "English, German, French"
     },
     "238": {
-        "name": "The Sound of Music",
+        "title": "The Sound of Music",
+        "director": "Robert Wise",
+        "writer": "Georg Hurdalek, Howard Lindsay, Russel Crouse",
         "rating": "8.1",
-        "runtime": "2h 52m"
+        "runtime": "2h 52m",
+        "genre": "Biography, Drama, Family",
+        "country": "United States",
+        "year": "1965",
+        "language": "English, German"
     },
     "239": {
-        "name": "The Grapes of Wrath",
+        "title": "The Grapes of Wrath",
+        "director": "John Ford",
+        "writer": "Nunnally Johnson, John Steinbeck",
         "rating": "8.1",
-        "runtime": "2h 9m"
+        "runtime": "2h 9m",
+        "genre": "Drama",
+        "country": "United States",
+        "year": "1940",
+        "language": "English"
     },
     "240": {
-        "name": "Groundhog Day",
+        "title": "Groundhog Day",
+        "director": "Harold Ramis",
+        "writer": "Danny Rubin, Harold Ramis",
         "rating": "8.0",
-        "runtime": "1h 41m"
+        "runtime": "1h 41m",
+        "genre": "Comedy, Drama, Fantasy",
+        "country": "United States",
+        "year": "1993",
+        "language": "English, French, Italian"
     },
     "241": {
-        "name": "The Battle of Algiers",
+        "title": "The Battle of Algiers",
+        "director": "Gillo Pontecorvo",
+        "writer": "Franco Solinas, Gillo Pontecorvo",
         "rating": "8.1",
-        "runtime": "2h 1m"
+        "runtime": "2h 1m",
+        "genre": "Drama, War",
+        "country": "Italy, Algeria",
+        "year": "1966",
+        "language": "Arabic, French, English, Spanish"
     },
     "242": {
-        "name": "Amores perros",
+        "title": "Amores Perros",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "writer": "Guillermo Arriaga",
         "rating": "8.1",
-        "runtime": "2h 34m"
+        "runtime": "2h 34m",
+        "genre": "Drama, Thriller",
+        "country": "Mexico",
+        "year": "2000",
+        "language": "Spanish"
     },
     "243": {
-        "name": "Rebecca",
+        "title": "Rebecca",
+        "director": "Alfred Hitchcock",
+        "writer": "Daphne Du Maurier, Robert E. Sherwood, Joan Harrison",
         "rating": "8.1",
-        "runtime": "2h 10m"
+        "runtime": "2h 10m",
+        "genre": "Drama, Film-Noir, Mystery",
+        "country": "United States",
+        "year": "1940",
+        "language": "English, French"
     },
     "244": {
-        "name": "Cool Hand Luke",
+        "title": "Cool Hand Luke",
+        "director": "Stuart Rosenberg",
+        "writer": "Donn Pearce, Frank Pierson, Hal Dresner",
         "rating": "8.1",
-        "runtime": "2h 7m"
+        "runtime": "2h 7m",
+        "genre": "Crime, Drama",
+        "country": "United States",
+        "year": "1967",
+        "language": "English"
     },
     "245": {
-        "name": "The Iron Giant",
+        "title": "The Iron Giant",
+        "director": "Brad Bird",
+        "writer": "Tim McCanlies, Brad Bird, Ted Hughes",
         "rating": "8.1",
-        "runtime": "1h 26m"
+        "runtime": "1h 26m",
+        "genre": "Animation, Action, Adventure",
+        "country": "United States, Denmark",
+        "year": "1999",
+        "language": "English"
     },
     "246": {
-        "name": "The Help",
+        "title": "The Help",
+        "director": "Tate Taylor",
+        "writer": "Tate Taylor, Kathryn Stockett",
         "rating": "8.1",
-        "runtime": "2h 26m"
+        "runtime": "2h 26m",
+        "genre": "Drama",
+        "country": "United States, India",
+        "year": "2011",
+        "language": "English"
     },
     "247": {
-        "name": "It Happened One Night",
+        "title": "It Happened One Night",
+        "director": "Frank Capra",
+        "writer": "Robert Riskin, Samuel Hopkins Adams",
         "rating": "8.1",
-        "runtime": "1h 45m"
+        "runtime": "1h 45m",
+        "genre": "Comedy, Romance",
+        "country": "United States",
+        "year": "1934",
+        "language": "English"
     },
     "248": {
-        "name": "The 400 Blows",
+        "title": "The 400 Blows",
+        "director": "Fran\u00e7ois Truffaut",
+        "writer": "Fran\u00e7ois Truffaut, Marcel Moussy",
         "rating": "8.1",
-        "runtime": "1h 39m"
+        "runtime": "1h 39m",
+        "genre": "Crime, Drama",
+        "country": "France",
+        "year": "1959",
+        "language": "French, English"
     },
     "249": {
-        "name": "Drishyam",
+        "title": "Drishyam",
+        "director": "Nishikant Kamat",
+        "writer": "Jeethu Joseph, Upendra Sidhaye",
         "rating": "8.2",
-        "runtime": "2h 43m"
-    },
-    "250": {
-        "name": "Aladdin",
-        "rating": "8.0",
-        "runtime": "1h 30m"
+        "runtime": "2h 43m",
+        "genre": "Crime, Drama, Mystery",
+        "country": "India",
+        "year": "2015",
+        "language": "Hindi, English"
     }
 }

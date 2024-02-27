@@ -58,9 +58,13 @@ document.addEventListener('DOMContentLoaded', function () {
                 movieItem.classList.add('movie-item');
 
                 movieItem.innerHTML = `
-                    <h2>${movie.name}</h2>
+                    <h2>${movie.title}</h2>
+                    <p>Director: ${movie.director}</p>
+                    <p>Writer: ${movie.writer}</p>
                     <p>Rating: ${movie.rating}</p>
-                    <p>Runtime: ${movie.runtime}</p>
+                    <p>Genre: ${movie.genre}</p>
+                    <p>Year: ${movie.year}</p>
+                    <p>Language: ${movie.language}</p>
                 `;
 
                 movieList.appendChild(movieItem);

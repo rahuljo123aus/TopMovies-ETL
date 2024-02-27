@@ -1,0 +1,1502 @@
+{
+    "1": {
+        "name": "The Shawshank Redemption",
+        "rating": "9.3",
+        "runtime": "2h 22m",
+        "imdb_id": "tt0111161"
+    },
+    "2": {
+        "name": "The Godfather",
+        "rating": "9.2",
+        "runtime": "2h 55m",
+        "imdb_id": "tt0068646"
+    },
+    "3": {
+        "name": "The Dark Knight",
+        "rating": "9.0",
+        "runtime": "2h 32m",
+        "imdb_id": "tt0468569"
+    },
+    "4": {
+        "name": "The Godfather: Part II",
+        "rating": "9.0",
+        "runtime": "3h 22m",
+        "imdb_id": "tt0071562"
+    },
+    "5": {
+        "name": "12 Angry Men",
+        "rating": "9.0",
+        "runtime": "1h 36m",
+        "imdb_id": "tt0050083"
+    },
+    "6": {
+        "name": "Schindler's List",
+        "rating": "9.0",
+        "runtime": "3h 15m",
+        "imdb_id": "tt0108052"
+    },
+    "7": {
+        "name": "The Lord of the Rings: The Return of the King",
+        "rating": "9.0",
+        "runtime": "3h 21m",
+        "imdb_id": "tt0167260"
+    },
+    "8": {
+        "name": "Pulp Fiction",
+        "rating": "8.9",
+        "runtime": "2h 34m",
+        "imdb_id": "tt0110912"
+    },
+    "9": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8.9",
+        "runtime": "2h 58m",
+        "imdb_id": "tt0120737"
+    },
+    "10": {
+        "name": "The Good, the Bad and the Ugly",
+        "rating": "8.8",
+        "runtime": "2h 41m",
+        "imdb_id": "tt0060196"
+    },
+    "11": {
+        "name": "Forrest Gump",
+        "rating": "8.8",
+        "runtime": "2h 22m",
+        "imdb_id": "tt0109830"
+    },
+    "12": {
+        "name": "The Lord of the Rings: The Two Towers",
+        "rating": "8.8",
+        "runtime": "2h 59m",
+        "imdb_id": "tt0167261"
+    },
+    "13": {
+        "name": "Fight Club",
+        "rating": "8.8",
+        "runtime": "2h 19m",
+        "imdb_id": "tt0137523"
+    },
+    "14": {
+        "name": "Inception",
+        "rating": "8.8",
+        "runtime": "2h 28m",
+        "imdb_id": "tt1375666"
+    },
+    "15": {
+        "name": "Star Wars: Episode V - The Empire Strikes Back",
+        "rating": "8.7",
+        "runtime": "2h 4m",
+        "imdb_id": "tt0080684"
+    },
+    "16": {
+        "name": "The Matrix",
+        "rating": "8.7",
+        "runtime": "2h 16m",
+        "imdb_id": "tt0133093"
+    },
+    "17": {
+        "name": "GoodFellas",
+        "rating": "8.7",
+        "runtime": "2h 25m",
+        "imdb_id": "tt0099685"
+    },
+    "18": {
+        "name": "One Flew Over the Cuckoo's Nest",
+        "rating": "8.7",
+        "runtime": "2h 13m",
+        "imdb_id": "tt0073486"
+    },
+    "19": {
+        "name": "Se7en",
+        "rating": "8.6",
+        "runtime": "2h 7m",
+        "imdb_id": "tt0114369"
+    },
+    "20": {
+        "name": "It's a Wonderful Life",
+        "rating": "8.6",
+        "runtime": "2h 10m",
+        "imdb_id": "tt0038650"
+    },
+    "21": {
+        "name": "Interstellar",
+        "rating": "8.7",
+        "runtime": "2h 49m",
+        "imdb_id": "tt0816692"
+    },
+    "22": {
+        "name": "Seven Samurai",
+        "rating": "8.6",
+        "runtime": "3h 27m",
+        "imdb_id": "tt0047478"
+    },
+    "23": {
+        "name": "The Silence of the Lambs",
+        "rating": "8.6",
+        "runtime": "1h 58m",
+        "imdb_id": "tt0102926"
+    },
+    "24": {
+        "name": "Saving Private Ryan",
+        "rating": "8.6",
+        "runtime": "2h 49m",
+        "imdb_id": "tt0120815"
+    },
+    "25": {
+        "name": "City of God",
+        "rating": "8.6",
+        "runtime": "2h 10m",
+        "imdb_id": "tt0317248"
+    },
+    "26": {
+        "name": "Life Is Beautiful",
+        "rating": "8.6",
+        "runtime": "1h 56m",
+        "imdb_id": "tt0118799"
+    },
+    "27": {
+        "name": "The Green Mile",
+        "rating": "8.6",
+        "runtime": "3h 9m",
+        "imdb_id": "tt0120689"
+    },
+    "28": {
+        "name": "Terminator 2: Judgment Day",
+        "rating": "8.6",
+        "runtime": "2h 17m",
+        "imdb_id": "tt0103064"
+    },
+    "29": {
+        "name": "Star Wars: Episode IV - A New Hope",
+        "rating": "8.6",
+        "runtime": "2h 1m",
+        "imdb_id": "tt0076759"
+    },
+    "30": {
+        "name": "Back to the Future",
+        "rating": "8.5",
+        "runtime": "1h 56m",
+        "imdb_id": "tt0088763"
+    },
+    "31": {
+        "name": "Spirited Away",
+        "rating": "8.6",
+        "runtime": "2h 5m",
+        "imdb_id": "tt0245429"
+    },
+    "32": {
+        "name": "The Pianist",
+        "rating": "8.5",
+        "runtime": "2h 30m",
+        "imdb_id": "tt0253474"
+    },
+    "33": {
+        "name": "Spider-Man: Across the Spider-Verse",
+        "rating": "8.6",
+        "runtime": "2h 20m",
+        "imdb_id": "tt9362722"
+    },
+    "34": {
+        "name": "Parasite",
+        "rating": "8.5",
+        "runtime": "2h 12m",
+        "imdb_id": "tt6751668"
+    },
+    "35": {
+        "name": "Psycho",
+        "rating": "8.5",
+        "runtime": "1h 49m",
+        "imdb_id": "tt0054215"
+    },
+    "36": {
+        "name": "Gladiator",
+        "rating": "8.5",
+        "runtime": "2h 35m",
+        "imdb_id": "tt0172495"
+    },
+    "37": {
+        "name": "The Lion King",
+        "rating": "8.5",
+        "runtime": "1h 28m",
+        "imdb_id": "tt0110357"
+    },
+    "38": {
+        "name": "Leon: The Professional",
+        "rating": "8.5",
+        "runtime": "1h 50m",
+        "imdb_id": "tt0110413"
+    },
+    "39": {
+        "name": "The Departed",
+        "rating": "8.5",
+        "runtime": "2h 31m",
+        "imdb_id": "tt0407887"
+    },
+    "40": {
+        "name": "American History X",
+        "rating": "8.5",
+        "runtime": "1h 59m",
+        "imdb_id": "tt0120586"
+    },
+    "41": {
+        "name": "Whiplash",
+        "rating": "8.5",
+        "runtime": "1h 46m",
+        "imdb_id": "tt2582802"
+    },
+    "42": {
+        "name": "The Prestige",
+        "rating": "8.5",
+        "runtime": "2h 10m",
+        "imdb_id": "tt0482571"
+    },
+    "43": {
+        "name": "Grave of the Fireflies",
+        "rating": "8.5",
+        "runtime": "1h 29m",
+        "imdb_id": "tt0095327"
+    },
+    "44": {
+        "name": "Seppuku",
+        "rating": "8.6",
+        "runtime": "2h 13m",
+        "imdb_id": "tt0056058"
+    },
+    "45": {
+        "name": "The Usual Suspects",
+        "rating": "8.5",
+        "runtime": "1h 46m",
+        "imdb_id": "tt0114814"
+    },
+    "46": {
+        "name": "Casablanca",
+        "rating": "8.5",
+        "runtime": "1h 42m",
+        "imdb_id": "tt0034583"
+    },
+    "47": {
+        "name": "The Intouchables",
+        "rating": "8.5",
+        "runtime": "1h 52m",
+        "imdb_id": "tt1675434"
+    },
+    "48": {
+        "name": "Modern Times",
+        "rating": "8.5",
+        "runtime": "1h 27m",
+        "imdb_id": "tt0027977"
+    },
+    "49": {
+        "name": "Cinema Paradiso",
+        "rating": "8.5",
+        "runtime": "2h 54m",
+        "imdb_id": "tt0095765"
+    },
+    "50": {
+        "name": "Rear Window",
+        "rating": "8.5",
+        "runtime": "1h 52m",
+        "imdb_id": "tt0047396"
+    },
+    "51": {
+        "name": "Once Upon a Time in the West",
+        "rating": "8.5",
+        "runtime": "2h 46m",
+        "imdb_id": "tt0064116"
+    },
+    "52": {
+        "name": "Alien",
+        "rating": "8.5",
+        "runtime": "1h 57m",
+        "imdb_id": "tt0078748"
+    },
+    "53": {
+        "name": "12th Fail",
+        "rating": "9.1",
+        "runtime": "2h 27m",
+        "imdb_id": "tt23849204"
+    },
+    "54": {
+        "name": "City Lights",
+        "rating": "8.5",
+        "runtime": "1h 27m",
+        "imdb_id": "tt0021749"
+    },
+    "55": {
+        "name": "Apocalypse Now",
+        "rating": "8.4",
+        "runtime": "2h 27m",
+        "imdb_id": "tt0078788"
+    },
+    "56": {
+        "name": "Django Unchained",
+        "rating": "8.5",
+        "runtime": "2h 45m",
+        "imdb_id": "tt1853728"
+    },
+    "57": {
+        "name": "Memento",
+        "rating": "8.4",
+        "runtime": "1h 53m",
+        "imdb_id": "tt0209144"
+    },
+    "58": {
+        "name": "WALLE",
+        "rating": "8.4",
+        "runtime": "1h 38m",
+        "imdb_id": "tt0910970"
+    },
+    "59": {
+        "name": "Raiders of the Lost Ark",
+        "rating": "8.4",
+        "runtime": "1h 55m",
+        "imdb_id": "tt0082971"
+    },
+    "60": {
+        "name": "The Lives of Others",
+        "rating": "8.4",
+        "runtime": "2h 17m",
+        "imdb_id": "tt0405094"
+    },
+    "61": {
+        "name": "Sunset Boulevard",
+        "rating": "8.4",
+        "runtime": "1h 50m",
+        "imdb_id": "tt0043014"
+    },
+    "62": {
+        "name": "Paths of Glory",
+        "rating": "8.4",
+        "runtime": "1h 28m",
+        "imdb_id": "tt0050825"
+    },
+    "63": {
+        "name": "Avengers: Infinity War",
+        "rating": "8.4",
+        "runtime": "2h 29m",
+        "imdb_id": "tt4154756"
+    },
+    "64": {
+        "name": "Spider-Man: Into the Spider-Verse",
+        "rating": "8.4",
+        "runtime": "1h 57m",
+        "imdb_id": "tt4633694"
+    },
+    "65": {
+        "name": "The Shining",
+        "rating": "8.4",
+        "runtime": "2h 26m",
+        "imdb_id": "tt0081505"
+    },
+    "66": {
+        "name": "Witness for the Prosecution",
+        "rating": "8.4",
+        "runtime": "1h 51m",
+        "imdb_id": "tt0051201"
+    },
+    "67": {
+        "name": "The Great Dictator",
+        "rating": "8.4",
+        "runtime": "2h 5m",
+        "imdb_id": "tt0032553"
+    },
+    "68": {
+        "name": "Aliens",
+        "rating": "8.4",
+        "runtime": "2h 17m",
+        "imdb_id": "tt0090605"
+    },
+    "69": {
+        "name": "Inglourious Basterds",
+        "rating": "8.4",
+        "runtime": "2h 33m",
+        "imdb_id": "tt0361748"
+    },
+    "70": {
+        "name": "The Dark Knight Rises",
+        "rating": "8.4",
+        "runtime": "2h 44m",
+        "imdb_id": "tt1345836"
+    },
+    "71": {
+        "name": "Dr",
+        "rating": "8.4",
+        "runtime": "1h 35m",
+        "imdb_id": "tt0057012"
+    },
+    "72": {
+        "name": "American Beauty",
+        "rating": "8.3",
+        "runtime": "2h 2m",
+        "imdb_id": "tt0169547"
+    },
+    "73": {
+        "name": "Oldboy",
+        "rating": "8.3",
+        "runtime": "2h",
+        "imdb_id": "tt0364569"
+    },
+    "74": {
+        "name": "Coco",
+        "rating": "8.4",
+        "runtime": "1h 45m",
+        "imdb_id": "tt2380307"
+    },
+    "75": {
+        "name": "Amadeus",
+        "rating": "8.4",
+        "runtime": "2h 40m",
+        "imdb_id": "tt0086879"
+    },
+    "76": {
+        "name": "Toy Story",
+        "rating": "8.3",
+        "runtime": "1h 21m",
+        "imdb_id": "tt0114709"
+    },
+    "77": {
+        "name": "Das Boot",
+        "rating": "8.4",
+        "runtime": "2h 29m",
+        "imdb_id": "tt0082096"
+    },
+    "78": {
+        "name": "Braveheart",
+        "rating": "8.3",
+        "runtime": "2h 58m",
+        "imdb_id": "tt0112573"
+    },
+    "79": {
+        "name": "Avengers: Endgame",
+        "rating": "8.4",
+        "runtime": "3h 1m",
+        "imdb_id": "tt4154796"
+    },
+    "80": {
+        "name": "Joker",
+        "rating": "8.4",
+        "runtime": "2h 2m",
+        "imdb_id": "tt7286456"
+    },
+    "81": {
+        "name": "Princess Mononoke",
+        "rating": "8.3",
+        "runtime": "2h 14m",
+        "imdb_id": "tt0119698"
+    },
+    "82": {
+        "name": "Good Will Hunting",
+        "rating": "8.3",
+        "runtime": "2h 6m",
+        "imdb_id": "tt0119217"
+    },
+    "83": {
+        "name": "Your Name",
+        "rating": "8.4",
+        "runtime": "1h 46m",
+        "imdb_id": "tt5311514"
+    },
+    "84": {
+        "name": "Oppenheimer",
+        "rating": "8.4",
+        "runtime": "3h",
+        "imdb_id": "tt15398776"
+    },
+    "85": {
+        "name": "Once Upon a Time in America",
+        "rating": "8.3",
+        "runtime": "3h 49m",
+        "imdb_id": "tt0087843"
+    },
+    "86": {
+        "name": "High and Low",
+        "rating": "8.4",
+        "runtime": "2h 23m",
+        "imdb_id": "tt0057565"
+    },
+    "87": {
+        "name": "3 Idiots",
+        "rating": "8.4",
+        "runtime": "2h 50m",
+        "imdb_id": "tt1187043"
+    },
+    "88": {
+        "name": "Singin' in the Rain",
+        "rating": "8.3",
+        "runtime": "1h 43m",
+        "imdb_id": "tt0045152"
+    },
+    "89": {
+        "name": "Capharnam",
+        "rating": "8.4",
+        "runtime": "2h 6m",
+        "imdb_id": "tt8267604"
+    },
+    "90": {
+        "name": "Requiem for a Dream",
+        "rating": "8.3",
+        "runtime": "1h 42m",
+        "imdb_id": "tt0180093"
+    },
+    "91": {
+        "name": "Idi i smotri",
+        "rating": "8.4",
+        "runtime": "2h 22m",
+        "imdb_id": "tt0091251"
+    },
+    "92": {
+        "name": "Toy Story 3",
+        "rating": "8.3",
+        "runtime": "1h 43m",
+        "imdb_id": "tt0435761"
+    },
+    "93": {
+        "name": "Star Wars: Episode VI - Return of the Jedi",
+        "rating": "8.3",
+        "runtime": "2h 11m",
+        "imdb_id": "tt0086190"
+    },
+    "94": {
+        "name": "Eternal Sunshine of the Spotless Mind",
+        "rating": "8.3",
+        "runtime": "1h 48m",
+        "imdb_id": "tt0338013"
+    },
+    "95": {
+        "name": "The Hunt",
+        "rating": "8.3",
+        "runtime": "1h 55m",
+        "imdb_id": "tt2106476"
+    },
+    "96": {
+        "name": "2001: A Space Odyssey",
+        "rating": "8.3",
+        "runtime": "2h 29m",
+        "imdb_id": "tt0062622"
+    },
+    "97": {
+        "name": "Poor Things",
+        "rating": "8.4",
+        "runtime": "2h 21m",
+        "imdb_id": "tt14230458"
+    },
+    "98": {
+        "name": "Reservoir Dogs",
+        "rating": "8.3",
+        "runtime": "1h 39m",
+        "imdb_id": "tt0105236"
+    },
+    "99": {
+        "name": "Ikiru",
+        "rating": "8.3",
+        "runtime": "2h 23m",
+        "imdb_id": "tt0044741"
+    },
+    "100": {
+        "name": "Lawrence of Arabia",
+        "rating": "8.3",
+        "runtime": "3h 38m",
+        "imdb_id": "tt0056172"
+    },
+    "101": {
+        "name": "The Apartment",
+        "rating": "8.3",
+        "runtime": "2h 5m",
+        "imdb_id": "tt0053604"
+    },
+    "102": {
+        "name": "North by Northwest",
+        "rating": "8.3",
+        "runtime": "2h 16m",
+        "imdb_id": "tt0053125"
+    },
+    "103": {
+        "name": "Citizen Kane",
+        "rating": "8.3",
+        "runtime": "1h 59m",
+        "imdb_id": "tt0033467"
+    },
+    "104": {
+        "name": "M",
+        "rating": "8.3",
+        "runtime": "1h 57m",
+        "imdb_id": "tt0022100"
+    },
+    "105": {
+        "name": "Vertigo",
+        "rating": "8.3",
+        "runtime": "2h 8m",
+        "imdb_id": "tt0052357"
+    },
+    "106": {
+        "name": "Double Indemnity",
+        "rating": "8.3",
+        "runtime": "1h 47m",
+        "imdb_id": "tt0036775"
+    },
+    "107": {
+        "name": "Scarface",
+        "rating": "8.3",
+        "runtime": "2h 50m",
+        "imdb_id": "tt0086250"
+    },
+    "108": {
+        "name": "Incendies",
+        "rating": "8.3",
+        "runtime": "2h 11m",
+        "imdb_id": "tt1255953"
+    },
+    "109": {
+        "name": "Amelie",
+        "rating": "8.3",
+        "runtime": "2h 2m",
+        "imdb_id": "tt0211915"
+    },
+    "110": {
+        "name": "Full Metal Jacket",
+        "rating": "8.3",
+        "runtime": "1h 56m",
+        "imdb_id": "tt0093058"
+    },
+    "111": {
+        "name": "A Clockwork Orange",
+        "rating": "8.3",
+        "runtime": "2h 16m",
+        "imdb_id": "tt0066921"
+    },
+    "112": {
+        "name": "Heat",
+        "rating": "8.3",
+        "runtime": "2h 50m",
+        "imdb_id": "tt0113277"
+    },
+    "113": {
+        "name": "Up",
+        "rating": "8.3",
+        "runtime": "1h 36m",
+        "imdb_id": "tt1049413"
+    },
+    "114": {
+        "name": "To Kill a Mockingbird",
+        "rating": "8.3",
+        "runtime": "2h 9m",
+        "imdb_id": "tt0056592"
+    },
+    "115": {
+        "name": "The Sting",
+        "rating": "8.3",
+        "runtime": "2h 9m",
+        "imdb_id": "tt0070735"
+    },
+    "116": {
+        "name": "A Separation",
+        "rating": "8.3",
+        "runtime": "2h 3m",
+        "imdb_id": "tt1832382"
+    },
+    "117": {
+        "name": "Indiana Jones and the Last Crusade",
+        "rating": "8.2",
+        "runtime": "2h 7m",
+        "imdb_id": "tt0097576"
+    },
+    "118": {
+        "name": "Die Hard",
+        "rating": "8.2",
+        "runtime": "2h 12m",
+        "imdb_id": "tt0095016"
+    },
+    "119": {
+        "name": "Metropolis",
+        "rating": "8.3",
+        "runtime": "2h 33m",
+        "imdb_id": "tt0017136"
+    },
+    "120": {
+        "name": "Hamilton",
+        "rating": "8.3",
+        "runtime": "2h 40m",
+        "imdb_id": "tt8503618"
+    },
+    "121": {
+        "name": "Like Stars on Earth",
+        "rating": "8.3",
+        "runtime": "2h 42m",
+        "imdb_id": "tt0986264"
+    },
+    "122": {
+        "name": "Snatch",
+        "rating": "8.2",
+        "runtime": "1h 44m",
+        "imdb_id": "tt0208092"
+    },
+    "123": {
+        "name": "L",
+        "rating": "8.2",
+        "runtime": "2h 18m",
+        "imdb_id": "tt0119488"
+    },
+    "124": {
+        "name": "Bicycle Thieves",
+        "rating": "8.3",
+        "runtime": "1h 29m",
+        "imdb_id": "tt0040522"
+    },
+    "125": {
+        "name": "1917",
+        "rating": "8.2",
+        "runtime": "1h 59m",
+        "imdb_id": "tt8579674"
+    },
+    "126": {
+        "name": "Taxi Driver",
+        "rating": "8.2",
+        "runtime": "1h 54m",
+        "imdb_id": "tt0075314"
+    },
+    "127": {
+        "name": "Downfall",
+        "rating": "8.2",
+        "runtime": "2h 36m",
+        "imdb_id": "tt0363163"
+    },
+    "128": {
+        "name": "Dangal",
+        "rating": "8.3",
+        "runtime": "2h 41m",
+        "imdb_id": "tt5074352"
+    },
+    "129": {
+        "name": "For a Few Dollars More",
+        "rating": "8.2",
+        "runtime": "2h 12m",
+        "imdb_id": "tt0059578"
+    },
+    "130": {
+        "name": "Batman Begins",
+        "rating": "8.2",
+        "runtime": "2h 20m",
+        "imdb_id": "tt0372784"
+    },
+    "131": {
+        "name": "Some Like It Hot",
+        "rating": "8.2",
+        "runtime": "2h 1m",
+        "imdb_id": "tt0053291"
+    },
+    "132": {
+        "name": "The Wolf of Wall Street",
+        "rating": "8.2",
+        "runtime": "3h",
+        "imdb_id": "tt0993846"
+    },
+    "133": {
+        "name": "The Kid",
+        "rating": "8.2",
+        "runtime": "1h 8m",
+        "imdb_id": "tt0012349"
+    },
+    "134": {
+        "name": "Green Book",
+        "rating": "8.2",
+        "runtime": "2h 10m",
+        "imdb_id": "tt6966692"
+    },
+    "135": {
+        "name": "The Father",
+        "rating": "8.2",
+        "runtime": "1h 37m",
+        "imdb_id": "tt10272386"
+    },
+    "136": {
+        "name": "Top Gun: Maverick",
+        "rating": "8.2",
+        "runtime": "2h 10m",
+        "imdb_id": "tt1745960"
+    },
+    "137": {
+        "name": "Judgment at Nuremberg",
+        "rating": "8.3",
+        "runtime": "2h 59m",
+        "imdb_id": "tt0055031"
+    },
+    "138": {
+        "name": "All About Eve",
+        "rating": "8.2",
+        "runtime": "2h 18m",
+        "imdb_id": "tt0042192"
+    },
+    "139": {
+        "name": "The Truman Show",
+        "rating": "8.2",
+        "runtime": "1h 43m",
+        "imdb_id": "tt0120382"
+    },
+    "140": {
+        "name": "There Will Be Blood",
+        "rating": "8.2",
+        "runtime": "2h 38m",
+        "imdb_id": "tt0469494"
+    },
+    "141": {
+        "name": "Shutter Island",
+        "rating": "8.2",
+        "runtime": "2h 18m",
+        "imdb_id": "tt1130884"
+    },
+    "142": {
+        "name": "Casino",
+        "rating": "8.2",
+        "runtime": "2h 58m",
+        "imdb_id": "tt0112641"
+    },
+    "143": {
+        "name": "Ran",
+        "rating": "8.2",
+        "runtime": "2h 40m",
+        "imdb_id": "tt0089881"
+    },
+    "144": {
+        "name": "Jurassic Park",
+        "rating": "8.2",
+        "runtime": "2h 7m",
+        "imdb_id": "tt0107290"
+    },
+    "145": {
+        "name": "The Sixth Sense",
+        "rating": "8.2",
+        "runtime": "1h 47m",
+        "imdb_id": "tt0167404"
+    },
+    "146": {
+        "name": "Pan's Labyrinth",
+        "rating": "8.2",
+        "runtime": "1h 58m",
+        "imdb_id": "tt0457430"
+    },
+    "147": {
+        "name": "Unforgiven",
+        "rating": "8.2",
+        "runtime": "2h 10m",
+        "imdb_id": "tt0105695"
+    },
+    "148": {
+        "name": "A Beautiful Mind",
+        "rating": "8.2",
+        "runtime": "2h 15m",
+        "imdb_id": "tt0268978"
+    },
+    "149": {
+        "name": "No Country for Old Men",
+        "rating": "8.2",
+        "runtime": "2h 2m",
+        "imdb_id": "tt0477348"
+    },
+    "150": {
+        "name": "The Thing",
+        "rating": "8.2",
+        "runtime": "1h 49m",
+        "imdb_id": "tt0084787"
+    },
+    "151": {
+        "name": "The Treasure of the Sierra Madre",
+        "rating": "8.2",
+        "runtime": "2h 6m",
+        "imdb_id": "tt0040897"
+    },
+    "152": {
+        "name": "Yojimbo",
+        "rating": "8.2",
+        "runtime": "1h 50m",
+        "imdb_id": "tt0055630"
+    },
+    "153": {
+        "name": "Kill Bill: Vol",
+        "rating": "8.2",
+        "runtime": "1h 51m",
+        "imdb_id": "tt0266697"
+    },
+    "154": {
+        "name": "Monty Python and the Holy Grail",
+        "rating": "8.2",
+        "runtime": "1h 31m",
+        "imdb_id": "tt0071853"
+    },
+    "155": {
+        "name": "The Great Escape",
+        "rating": "8.2",
+        "runtime": "2h 52m",
+        "imdb_id": "tt0057115"
+    },
+    "156": {
+        "name": "Finding Nemo",
+        "rating": "8.2",
+        "runtime": "1h 40m",
+        "imdb_id": "tt0266543"
+    },
+    "157": {
+        "name": "Rashomon",
+        "rating": "8.2",
+        "runtime": "1h 28m",
+        "imdb_id": "tt0042876"
+    },
+    "158": {
+        "name": "The Elephant Man",
+        "rating": "8.2",
+        "runtime": "2h 4m",
+        "imdb_id": "tt0080678"
+    },
+    "159": {
+        "name": "Howl's Moving Castle",
+        "rating": "8.2",
+        "runtime": "1h 59m",
+        "imdb_id": "tt0347149"
+    },
+    "160": {
+        "name": "Prisoners",
+        "rating": "8.1",
+        "runtime": "2h 33m",
+        "imdb_id": "tt1392214"
+    },
+    "161": {
+        "name": "Chinatown",
+        "rating": "8.1",
+        "runtime": "2h 10m",
+        "imdb_id": "tt0071315"
+    },
+    "162": {
+        "name": "Dial M for Murder",
+        "rating": "8.2",
+        "runtime": "1h 45m",
+        "imdb_id": "tt0046912"
+    },
+    "163": {
+        "name": "Gone with the Wind",
+        "rating": "8.2",
+        "runtime": "3h 58m",
+        "imdb_id": "tt0031381"
+    },
+    "164": {
+        "name": "V for Vendetta",
+        "rating": "8.2",
+        "runtime": "2h 12m",
+        "imdb_id": "tt0434409"
+    },
+    "165": {
+        "name": "Lock, Stock and Two Smoking Barrels",
+        "rating": "8.1",
+        "runtime": "1h 47m",
+        "imdb_id": "tt0120735"
+    },
+    "166": {
+        "name": "The Secret in Their Eyes",
+        "rating": "8.2",
+        "runtime": "2h 9m",
+        "imdb_id": "tt1305806"
+    },
+    "167": {
+        "name": "Raging Bull",
+        "rating": "8.1",
+        "runtime": "2h 9m",
+        "imdb_id": "tt0081398"
+    },
+    "168": {
+        "name": "Inside Out",
+        "rating": "8.1",
+        "runtime": "1h 35m",
+        "imdb_id": "tt2096673"
+    },
+    "169": {
+        "name": "Three Billboards Outside Ebbing, Missouri",
+        "rating": "8.1",
+        "runtime": "1h 55m",
+        "imdb_id": "tt5027774"
+    },
+    "170": {
+        "name": "Trainspotting",
+        "rating": "8.1",
+        "runtime": "1h 33m",
+        "imdb_id": "tt0117951"
+    },
+    "171": {
+        "name": "The Bridge on the River Kwai",
+        "rating": "8.1",
+        "runtime": "2h 41m",
+        "imdb_id": "tt0050212"
+    },
+    "172": {
+        "name": "Spider-Man: No Way Home",
+        "rating": "8.2",
+        "runtime": "2h 28m",
+        "imdb_id": "tt10872600"
+    },
+    "173": {
+        "name": "Fargo",
+        "rating": "8.1",
+        "runtime": "1h 38m",
+        "imdb_id": "tt0116282"
+    },
+    "174": {
+        "name": "Warrior",
+        "rating": "8.1",
+        "runtime": "2h 20m",
+        "imdb_id": "tt1291584"
+    },
+    "175": {
+        "name": "Klaus",
+        "rating": "8.2",
+        "runtime": "1h 36m",
+        "imdb_id": "tt4729430"
+    },
+    "176": {
+        "name": "Catch Me If You Can",
+        "rating": "8.1",
+        "runtime": "2h 21m",
+        "imdb_id": "tt0264464"
+    },
+    "177": {
+        "name": "Godzilla Minus One",
+        "rating": "8.3",
+        "runtime": "2h 4m",
+        "imdb_id": "tt23289160"
+    },
+    "178": {
+        "name": "Gran Torino",
+        "rating": "8.1",
+        "runtime": "1h 56m",
+        "imdb_id": "tt1205489"
+    },
+    "179": {
+        "name": "My Neighbor Totoro",
+        "rating": "8.1",
+        "runtime": "1h 26m",
+        "imdb_id": "tt0096283"
+    },
+    "180": {
+        "name": "Million Dollar Baby",
+        "rating": "8.1",
+        "runtime": "2h 12m",
+        "imdb_id": "tt0405159"
+    },
+    "181": {
+        "name": "Harry Potter and the Deathly Hallows: Part 2",
+        "rating": "8.1",
+        "runtime": "2h 10m",
+        "imdb_id": "tt1201607"
+    },
+    "182": {
+        "name": "Children of Heaven",
+        "rating": "8.2",
+        "runtime": "1h 29m",
+        "imdb_id": "tt0118849"
+    },
+    "183": {
+        "name": "12 Years a Slave",
+        "rating": "8.1",
+        "runtime": "2h 14m",
+        "imdb_id": "tt2024544"
+    },
+    "184": {
+        "name": "Blade Runner",
+        "rating": "8.1",
+        "runtime": "1h 57m",
+        "imdb_id": "tt0083658"
+    },
+    "185": {
+        "name": "Before Sunrise",
+        "rating": "8.1",
+        "runtime": "1h 41m",
+        "imdb_id": "tt0112471"
+    },
+    "186": {
+        "name": "The Grand Budapest Hotel",
+        "rating": "8.1",
+        "runtime": "1h 39m",
+        "imdb_id": "tt2278388"
+    },
+    "187": {
+        "name": "Ben-Hur",
+        "rating": "8.1",
+        "runtime": "3h 32m",
+        "imdb_id": "tt0052618"
+    },
+    "188": {
+        "name": "Barry Lyndon",
+        "rating": "8.1",
+        "runtime": "3h 5m",
+        "imdb_id": "tt0072684"
+    },
+    "189": {
+        "name": "Gone Girl",
+        "rating": "8.1",
+        "runtime": "2h 29m",
+        "imdb_id": "tt2267998"
+    },
+    "190": {
+        "name": "The Gold Rush",
+        "rating": "8.1",
+        "runtime": "1h 35m",
+        "imdb_id": "tt0015864"
+    },
+    "191": {
+        "name": "Hacksaw Ridge",
+        "rating": "8.1",
+        "runtime": "2h 19m",
+        "imdb_id": "tt2119532"
+    },
+    "192": {
+        "name": "In the Name of the Father",
+        "rating": "8.1",
+        "runtime": "2h 13m",
+        "imdb_id": "tt0107207"
+    },
+    "193": {
+        "name": "Memories of Murder",
+        "rating": "8.1",
+        "runtime": "2h 11m",
+        "imdb_id": "tt0353969"
+    },
+    "194": {
+        "name": "On the Waterfront",
+        "rating": "8.1",
+        "runtime": "1h 48m",
+        "imdb_id": "tt0047296"
+    },
+    "195": {
+        "name": "Dead Poets Society",
+        "rating": "8.1",
+        "runtime": "2h 8m",
+        "imdb_id": "tt0097165"
+    },
+    "196": {
+        "name": "The General",
+        "rating": "8.1",
+        "runtime": "1h 47m",
+        "imdb_id": "tt0017925"
+    },
+    "197": {
+        "name": "The Deer Hunter",
+        "rating": "8.1",
+        "runtime": "3h 3m",
+        "imdb_id": "tt0077416"
+    },
+    "198": {
+        "name": "Wild Tales",
+        "rating": "8.1",
+        "runtime": "2h 2m",
+        "imdb_id": "tt3011894"
+    },
+    "199": {
+        "name": "Mad Max: Fury Road",
+        "rating": "8.1",
+        "runtime": "2h",
+        "imdb_id": "tt1392190"
+    },
+    "200": {
+        "name": "Sherlock Jr",
+        "rating": "8.2",
+        "runtime": "45m",
+        "imdb_id": "tt0015324"
+    },
+    "201": {
+        "name": "Monsters, Inc",
+        "rating": "8.1",
+        "runtime": "1h 32m",
+        "imdb_id": "tt0198781"
+    },
+    "202": {
+        "name": "The Third Man",
+        "rating": "8.1",
+        "runtime": "1h 44m",
+        "imdb_id": "tt0041959"
+    },
+    "203": {
+        "name": "Wild Strawberries",
+        "rating": "8.1",
+        "runtime": "1h 31m",
+        "imdb_id": "tt0050986"
+    },
+    "204": {
+        "name": "The Wages of Fear",
+        "rating": "8.2",
+        "runtime": "2h 11m",
+        "imdb_id": "tt0046268"
+    },
+    "205": {
+        "name": "Jaws",
+        "rating": "8.1",
+        "runtime": "2h 4m",
+        "imdb_id": "tt0073195"
+    },
+    "206": {
+        "name": "How to Train Your Dragon",
+        "rating": "8.1",
+        "runtime": "1h 38m",
+        "imdb_id": "tt0892769"
+    },
+    "207": {
+        "name": "Mary and Max",
+        "rating": "8.1",
+        "runtime": "1h 32m",
+        "imdb_id": "tt0978762"
+    },
+    "208": {
+        "name": "Mr",
+        "rating": "8.1",
+        "runtime": "2h 9m",
+        "imdb_id": "tt0031679"
+    },
+    "209": {
+        "name": "Ford v Ferrari",
+        "rating": "8.1",
+        "runtime": "2h 32m",
+        "imdb_id": "tt1950186"
+    },
+    "210": {
+        "name": "Ratatouille",
+        "rating": "8.1",
+        "runtime": "1h 51m",
+        "imdb_id": "tt0382932"
+    },
+    "211": {
+        "name": "The Seventh Seal",
+        "rating": "8.1",
+        "runtime": "1h 36m",
+        "imdb_id": "tt0050976"
+    },
+    "212": {
+        "name": "Room",
+        "rating": "8.1",
+        "runtime": "1h 58m",
+        "imdb_id": "tt3170832"
+    },
+    "213": {
+        "name": "The Big Lebowski",
+        "rating": "8.1",
+        "runtime": "1h 57m",
+        "imdb_id": "tt0118715"
+    },
+    "214": {
+        "name": "Tokyo Story",
+        "rating": "8.1",
+        "runtime": "2h 16m",
+        "imdb_id": "tt0046438"
+    },
+    "215": {
+        "name": "Rocky",
+        "rating": "8.1",
+        "runtime": "2h",
+        "imdb_id": "tt0075148"
+    },
+    "216": {
+        "name": "Logan",
+        "rating": "8.1",
+        "runtime": "2h 17m",
+        "imdb_id": "tt3315342"
+    },
+    "217": {
+        "name": "Spotlight",
+        "rating": "8.1",
+        "runtime": "2h 9m",
+        "imdb_id": "tt1895587"
+    },
+    "218": {
+        "name": "Hotel Rwanda",
+        "rating": "8.1",
+        "runtime": "2h 1m",
+        "imdb_id": "tt0395169"
+    },
+    "219": {
+        "name": "Platoon",
+        "rating": "8.1",
+        "runtime": "2h",
+        "imdb_id": "tt0091763"
+    },
+    "220": {
+        "name": "The Terminator",
+        "rating": "8.1",
+        "runtime": "1h 47m",
+        "imdb_id": "tt0088247"
+    },
+    "221": {
+        "name": "The Passion of Joan of Arc",
+        "rating": "8.1",
+        "runtime": "1h 50m",
+        "imdb_id": "tt0019254"
+    },
+    "222": {
+        "name": "Jai Bhim",
+        "rating": "8.7",
+        "runtime": "2h 44m",
+        "imdb_id": "tt15097216"
+    },
+    "223": {
+        "name": "Before Sunset",
+        "rating": "8.1",
+        "runtime": "1h 20m",
+        "imdb_id": "tt0381681"
+    },
+    "224": {
+        "name": "The Best Years of Our Lives",
+        "rating": "8.1",
+        "runtime": "2h 50m",
+        "imdb_id": "tt0036868"
+    },
+    "225": {
+        "name": "La haine",
+        "rating": "8.1",
+        "runtime": "1h 38m",
+        "imdb_id": "tt0113247"
+    },
+    "226": {
+        "name": "The Exorcist",
+        "rating": "8.1",
+        "runtime": "2h 2m",
+        "imdb_id": "tt0070047"
+    },
+    "227": {
+        "name": "Rush",
+        "rating": "8.1",
+        "runtime": "2h 3m",
+        "imdb_id": "tt1979320"
+    },
+    "228": {
+        "name": "Network",
+        "rating": "8.1",
+        "runtime": "2h 1m",
+        "imdb_id": "tt0074958"
+    },
+    "229": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": "8.1",
+        "runtime": "2h 23m",
+        "imdb_id": "tt0325980"
+    },
+    "230": {
+        "name": "Stand by Me",
+        "rating": "8.1",
+        "runtime": "1h 29m",
+        "imdb_id": "tt0092005"
+    },
+    "231": {
+        "name": "The Wizard of Oz",
+        "rating": "8.1",
+        "runtime": "1h 42m",
+        "imdb_id": "tt0032138"
+    },
+    "232": {
+        "name": "The Incredibles",
+        "rating": "8.0",
+        "runtime": "1h 55m",
+        "imdb_id": "tt0317705"
+    },
+    "233": {
+        "name": "Into the Wild",
+        "rating": "8.1",
+        "runtime": "2h 28m",
+        "imdb_id": "tt0758758"
+    },
+    "234": {
+        "name": "Hachi: A Dog's Tale",
+        "rating": "8.1",
+        "runtime": "1h 33m",
+        "imdb_id": "tt1028532"
+    },
+    "235": {
+        "name": "The Handmaiden",
+        "rating": "8.1",
+        "runtime": "2h 25m",
+        "imdb_id": "tt4016934"
+    },
+    "236": {
+        "name": "My Father and My Son",
+        "rating": "8.2",
+        "runtime": "1h 52m",
+        "imdb_id": "tt0476735"
+    },
+    "237": {
+        "name": "To Be or Not to Be",
+        "rating": "8.1",
+        "runtime": "1h 39m",
+        "imdb_id": "tt0035446"
+    },
+    "238": {
+        "name": "The Sound of Music",
+        "rating": "8.1",
+        "runtime": "2h 52m",
+        "imdb_id": "tt0059742"
+    },
+    "239": {
+        "name": "The Grapes of Wrath",
+        "rating": "8.1",
+        "runtime": "2h 9m",
+        "imdb_id": "tt0032551"
+    },
+    "240": {
+        "name": "Groundhog Day",
+        "rating": "8.0",
+        "runtime": "1h 41m",
+        "imdb_id": "tt0107048"
+    },
+    "241": {
+        "name": "The Battle of Algiers",
+        "rating": "8.1",
+        "runtime": "2h 1m",
+        "imdb_id": "tt0058946"
+    },
+    "242": {
+        "name": "Amores perros",
+        "rating": "8.1",
+        "runtime": "2h 34m",
+        "imdb_id": "tt0245712"
+    },
+    "243": {
+        "name": "Rebecca",
+        "rating": "8.1",
+        "runtime": "2h 10m",
+        "imdb_id": "tt0032976"
+    },
+    "244": {
+        "name": "Cool Hand Luke",
+        "rating": "8.1",
+        "runtime": "2h 7m",
+        "imdb_id": "tt0061512"
+    },
+    "245": {
+        "name": "The Iron Giant",
+        "rating": "8.1",
+        "runtime": "1h 26m",
+        "imdb_id": "tt0129167"
+    },
+    "246": {
+        "name": "The Help",
+        "rating": "8.1",
+        "runtime": "2h 26m",
+        "imdb_id": "tt1454029"
+    },
+    "247": {
+        "name": "It Happened One Night",
+        "rating": "8.1",
+        "runtime": "1h 45m",
+        "imdb_id": "tt0025316"
+    },
+    "248": {
+        "name": "The 400 Blows",
+        "rating": "8.1",
+        "runtime": "1h 39m",
+        "imdb_id": "tt0053198"
+    },
+    "249": {
+        "name": "Drishyam",
+        "rating": "8.2",
+        "runtime": "2h 43m",
+        "imdb_id": "tt4430212"
+    },
+    "250": {
+        "name": "Aladdin",
+        "rating": "8.0",
+        "runtime": "1h 30m",
+        "imdb_id": "tt0103639"
+    }
+}
