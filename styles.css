@@ -13,10 +13,36 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block;
 }
 
+.heading {
+    color:  rgb(255, 124, 0);
+    text-transform: uppercase;
+    position: fixed;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+
+}
+.logo{
+    border:2px solid #fff;
+    border-radius:3px;
+    text-decoration:none;
+    display:inline-flex;
+    align-items:center;
+    align-content:center;
+    margin:20px;
+    padding:0px 10px;
+    font-weight:900;
+    font-size:1.1em;
+    line-height:1;
+    box-sizing:border-box;
+    height:40px;
+    color:#f7e652;
+    position: fixed;
+  }
+
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: rgb(19, 30, 37);
+    color: rgb(19, 30, 37);
     margin: 0;
     padding: 0;
 }
@@ -38,6 +64,7 @@ body {
 }
 
 .movie-item:hover {
+    background-color: #f7e652;
     transform: rotateY(10deg) scale(1.1); /* Apply 3D effect on hover */
 }
 
@@ -58,7 +85,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #333; /* Dark background */
+    background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%); /* Dark background */
     z-index: 1000; /* Make sure it's on top of other content */
     display: flex;
     justify-content: center; /* Center horizontally */
@@ -76,6 +103,13 @@ body {
     transform: translateY(-50%); /* Center the heading vertically */
 }
 
+.cover-subheading {
+    font-size: 12px;
+    color: #fff;
+    transition: transform 1s ease; /* Smooth transition for transform */
+    transform: translateY(-50%); /* Center the heading vertically */
+}
+
 .cover-page.hide {
     opacity: 0; /* Hide the cover page */
     pointer-events: none; /* Make sure it doesn't intercept clicks */
@@ -83,10 +117,10 @@ body {
 }
 
 .page-header {
-    background-color: #333;
+    background-color: rgb(19, 30, 37);
     padding: 20px;
     color: #fff;
-    text-align: center;
+    text-align: right;
 }
 
 .page-header input[type="text"] {
